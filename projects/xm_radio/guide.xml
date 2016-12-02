@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mainGenre>
+	<genre>
+		<title>DECADE MUSIC</title>
+		<channels>
+			<channel>
+				<title>THE 40s</title>
+				<logo>logos/the40s.swf</logo>
+				<heading>4</heading>
+				<info>The big bands, the greatest standards, the sounds of swing, and the hits of the 30s and 40s.</info>
+			</channel>
+			<channel>
+				<title>THE 50s</title>
+				<logo>logos/the50s.swf</logo>
+				<heading>5</heading>
+				<info>The hit parade, the pre-rock sounds of Doo Wop, Rockabilly, early R&B, and the Swinging Sound of the Rat Pack era.</info>
+			</channel>
+			<channel>
+				<title>THE 60s</title>
+				<logo>logos/the60s.swf</logo>
+				<heading>6</heading>
+				<info>The 60s reborn: the surfin' tunes, R&B, the "girl groups," the British invasion, the Woodstock era, and Wolfman Jack.</info>
+			</channel>
+			<channel>
+				<title>THE 70s</title>
+				<logo>logos/the70s.swf</logo>
+				<heading>7</heading>
+				<info>From singer-songwriters and great Classic Rock to the best R&B, soul, and disco.</info>
+			</channel>
+			<channel>
+				<title>THE 80s</title>
+				<logo>logos/the80s.swf</logo>
+				<heading>8</heading>
+				<info>Big hair and bigger music: rock, R&B, and pop from the 80s.</info>
+			</channel>
+			<channel>
+				<title>THE 90s</title>
+				<logo>logos/the90s.swf</logo>
+				<heading>9</heading>
+				<info>The birth of grunge; the resurgence of pop; and an unprecedented melding of R&B, rap, and techno.</info>
+			</channel>			
+		</channels>
+	</genre>	
+	<genre>
+		<title>COUNTRY MUSIC</title>
+		<channels>
+			<channel>
+				<title>AMERICA</title>
+				<logo>logos/america.swf</logo>
+				<heading>10</heading>
+				<info>It doesn't matter if it's old or new; if it twangs or keeps the tradition alive, we'll keep it country.</info>
+			</channel>
+			<channel>
+				<title>X COUNTRY&#174;</title>
+				<logo>logos/xcountry.swf</logo>
+				<heading>12</heading>
+				<info>The roots of greasy, gritty, down-home country infused with folk, rock, and blues.</info>
+			</channel>
+			<channel>
+				<title>WILLIE'S PLACE</title>
+				<logo>logos/williesplace.swf</logo>
+				<heading>13</heading>
+				<info>Where country music is still rustic, rich, and rough, and the honky tonk is always on. Co-owned by Willie Nelson.</info>
+			</channel>
+			<channel>
+				<title>BLUEGRASS JUNCTION&#174;</title>
+				<logo>logos/bluegrassjunction.swf</logo>
+				<heading>14</heading>
+				<info>Traditional Bluegrass meets Progressive Newgrass, in perfect harmony.</info>
+			</channel>
+			<channel>
+				<title>THE VILLAGE</title>
+				<logo>logos/thevillage.swf</logo>
+				<heading>15</heading>
+				<info>From the ballads of early American songwriters to the contemporary masters of folk.</info>
+			</channel>
+			<channel>
+				<title>HIGHWAY 16&#174;</title>
+				<logo>logos/highway16.swf</logo>
+				<heading>16</heading>
+				<info>Non-stop hits from country music's biggest superstars and hot new rookies.</info>
+			</channel>
+			<channel>
+				<title>U.S. COUNTRY</title>
+				<logo>logos/uscountry.swf</logo>
+				<heading>17</heading>
+				<info>Not just today's hits, but the entire careers of country music's biggest stars.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>POP HITS</title>
+		<channels>
+			<channel>
+				<title>TOP 20 ON 20</title>
+				<logo>logos/20on20.swf</logo>
+				<heading>20</heading>
+				<info>Vote online, or call Top 20 on 20 toll free at 866-553-2020.</info>
+			</channel>
+			<channel>
+				<title>THE HEART</title>
+				<logo>logos/theheart.swf</logo>
+				<heading>23</heading>
+				<info>The great love songs from the 60s to today.</info>
+			</channel>	
+			<channel>
+				<title>THE BLEND</title>
+				<logo>logos/theblend.swf</logo>
+				<heading>25</heading>
+				<info>The superstars of pop music from the past 30 years.</info>
+			</channel>	
+			<channel>
+				<title>FLIGHT 26</title>
+				<logo>logos/flight26.swf</logo>
+				<heading>26</heading>
+				<info>Chart hits and standout tracks from the 90s to today.</info>
+			</channel>	
+			<channel>
+				<title>CINEMAGIC&#174;</title>
+				<logo>logos/cinemagic.swf</logo>
+				<heading>27</heading>
+				<info>Relive exciting, dramatic, comedic, and romantic movie moments through the magic of music.</info>
+			</channel>	
+			<channel>
+				<title>ON BROADWAY&#174;</title>
+				<logo>logos/onbroadway.swf</logo>
+				<heading>28</heading>
+				<info>If you love show tunes, there's just one place for you: On Broadway.</info>
+			</channel>	
+			<channel>
+				<title>U-POP</title>
+				<logo>logos/upop.swf</logo>
+				<heading>29</heading>
+				<info>The most popular chart music from Europe, J-pop from Japan, Afro-pop, and Latin American hits.</info>
+			</channel>	
+			<channel>
+				<title>XM HITLIST</title>
+				<logo>logos/xmhitlist.swf</logo>
+				<heading>30</heading>
+				<info>The Top 40, chart-topping, groove-grinding hits that are unmistakably now.</info>
+			</channel>	
+		</channels>
+	</genre>
+	<genre>		
+		<title>CHRISTIAN MUSIC</title>
+		<channels>
+			<channel>
+				<title>THE MESSAGE</title>
+				<logo>logos/themessage.swf</logo>
+				<heading>32</heading>
+				<info>An uplifting mix of Christian pop and rock hits from the 80s through today.</info>
+			</channel>	
+			<channel>
+				<title>SPIRIT</title>
+				<logo>logos/thespirit.swf</logo>
+				<heading>33</heading>
+				<info>Let the spirit move you with the glorious sounds of Gospel and Christian music.</info>
+			</channel>	
+			<channel>
+				<title>ENLIGHTEN&#8482;</title>
+				<logo>logos/enlighten.swf</logo>
+				<heading>34</heading>
+				<info>Southern Gospel roots based on four-part harmony featuring family groups, trios, quartets, and soloists.</info>
+			</channel>	
+		</channels>
+	</genre>
+	<genre>	
+		<title>ROCK MUSIC</title>
+		<channels>
+			<channel>
+				<title>DEEP TRACKS&#174;</title>
+				<logo>logos/deeptracks.swf</logo>
+				<heading>40</heading>
+				<info>Classic album rock, landmark songs, lost gems, offbeat cuts, and live concerts from the 60s and 70s.</info>
+			</channel>	
+			<channel>
+				<title>BONEYARD&#174;</title>
+				<logo>logos/boneyard.swf</logo>
+				<heading>41</heading>
+				<info>Arena rock, hair bands, and guitar gods.</info>
+			</channel>	
+			<channel>
+				<title>LIQUID METAL&#174;</title>
+				<logo>logos/xmlm.swf</logo>
+				<heading>42</heading>
+				<info>Torturously hard and loud, delivered painfully and without compromise.</info>
+			</channel>	
+			<channel>
+				<title>XMU&#174;</title>
+				<logo>logos/xmu.swf</logo>
+				<heading>43</heading>
+				<info>Indie pop, indie rock, electronic, down tempo, underground hip-hop, and unsigned artists.</info>
+			</channel>	
+			<channel>
+				<title>FRED&#174;</title>
+				<logo>logos/fred.swf</logo>
+				<heading>44</heading>
+				<info>Ground-breaking alternative music from the late 70s through the early 90s.</info>
+			</channel>	
+			<channel>
+				<title>XM CAFE&#174;</title>
+				<logo>logos/xmcafe.swf</logo>
+				<heading>45</heading>
+				<info>Featuring musicians with mellow sounds and a fresh approach to modern adult alternative music.</info>
+			</channel>	
+			<channel>
+				<title>TOP TRACKS</title>
+				<logo>logos/toptracks.swf</logo>
+				<heading>46</heading>
+				<info>The anthems of rock from the 60s and 70s.</info>
+			</channel>	
+			<channel>
+				<title>ETHEL&#174;</title>
+				<logo>logos/ethel.swf</logo>
+				<heading>47</heading>
+				<info>New alternative rock, deep cuts from modern rock superstars, and 90s flashbacks.</info>
+			</channel>	
+			<channel>
+				<title>SQUIZZ</title>
+				<logo>logos/squizz.swf</logo>
+				<heading>48</heading>
+				<info>This is the new rock for an extreme generation.</info>
+			</channel>	
+			<channel>
+				<title>BIG TRACKS</title>
+				<logo>logos/bigtracks.swf</logo>
+				<heading>49</heading>
+				<info>From mullets to air guitars, classic rock hits from the mid 70s to the early 90s. </info>
+			</channel>	
+			<channel>
+				<title>THE LOFT</title>
+				<logo>logos/theloft.swf</logo>
+				<heading>50</heading>
+				<info>An intelligent, eclectic mix of tunes by singer-songwriters.</info>
+			</channel>	
+			<channel>
+				<title>THE VERGE</title>
+				<logo>logos/theverge.swf</logo>
+				<heading>52</heading>
+				<info>From heavy metal to mainstream, modern rock to eclectic folk and roots rock, new and emerging Canadian artists are making noise.</info>
+			</channel>	
+			<channel>
+				<title>FUNGUS</title>
+				<logo>logos/fungus.swf</logo>
+				<heading>53</heading>
+				<info>Thirty years of punk and other misbegotten styles: hardcore, ska, industrial, and surf.</info>
+			</channel>	
+			<channel>
+				<title>LUCY</title>
+				<logo>logos/lucy.swf</logo>
+				<heading>54</heading>
+				<info>The important songs in the history of alternative music from the 90s, with some 80s flashblacks.</info>
+			</channel>	
+		</channels>
+	</genre>
+	<genre>
+		<title>HIP-HOP and URBAN</title>
+		<channels>
+			<channel>
+				<title>SOUL STREET&#174;</title>
+				<logo>logos/soulstreet.swf</logo>
+				<heading>60</heading>
+				<info>From James Brown to Aretha Franklin, vintage soul and classic R&B from the 60s and early 70s.</info>
+			</channel>	
+			<channel>
+				<title>SUITE 62&#174;</title>
+				<logo>logos/suite62.swf</logo>
+				<heading>62</heading>
+				<info>The latest R&B hits mixed with classic R&B ballads, slow jams, and smooth, polished sounds from the 80s and 90s.</info>
+			</channel>	
+			<channel>
+				<title>THE GROOVE</title>
+				<logo>logos/thegroove.swf</logo>
+				<heading>64</heading>
+				<info>The great R&B headliners from the mid 70s through 80s, along with funk, dance, and party music.</info>
+			</channel>	
+			<channel>
+				<title>THE RHYME&#174;</title>
+				<logo>logos/therhyme.swf</logo>
+				<heading>65</heading>
+				<info>From break beats to gansta, jazz rap to turntablism: it's the first 25 years of hip-hop.</info>
+			</channel>
+			<channel>
+				<title>RAW</title>
+				<logo>logos/raw.swf</logo>
+				<heading>66</heading>
+				<info>Uncut, uncensored hip-hop. Mixtape-style radio in its purest.</info>
+			</channel>
+			<channel>
+				<title>THE CITY</title>
+				<logo>logos/thecity.swf</logo>
+				<heading>67</heading>
+				<info>The nation's premiere hip-hop and R&B channel.</info>
+			</channel>
+			<channel>
+				<title>THE HEAT</title>
+				<logo>logos/theheat.swf</logo>
+				<heading>68</heading>
+				<info>The most sizzling hip-hop, R&B, and Top 40 crossover music.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>JAZZ and BLUES</title>
+		<channels>
+			<channel>
+				<title>REAL JAZZ&#174;</title>
+				<logo>logos/realjazz.swf</logo>
+				<heading>70</heading>
+				<info>Classic jazz, bebop, and today's rising stars.</info>
+			</channel>
+			<channel>
+				<title>WATERCOLORS&#174;</title>
+				<logo>logos/watercolors.swf</logo>
+				<heading>71</heading>
+				<info>Cool, contemporary jazz instrumentals and hip vocals create an engaging musical landscape of sophistication.</info>
+			</channel>
+			<channel>
+				<title>BEYOND JAZZ&#174;</title>
+				<logo>logos/beyondjazz.swf</logo>
+				<heading>72</heading>
+				<info>The greats of the jazz-fusion era, the stars of modern electric and acoustic jazz, new jazz singers, jazzy jambands, acid jazz, and techno-jazz.</info>
+			</channel>
+			<channel>
+				<title>FRANK'S PLACE</title>
+				<logo>logos/franksplace.swf</logo>
+				<heading>73</heading>
+				<info>The incomparable American song style with Frank Sinatra and all his friends.</info>
+			</channel>
+			<channel>
+				<title>BLUESVILLE</title>
+				<logo>logos/bluesville.swf</logo>
+				<heading>74</heading>
+				<info>The mother of American music, blues is about life: the good, the bad, and the ugly.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>LIFESTYLE MUSIC</title>
+		<channels>
+			<channel>
+				<title>HEAR MUSIC&#8482;</title>
+				<logo>logos/hearmusic.swf</logo>
+				<heading>75</heading>
+				<info>Discover your next favorite artist: an emerging singer-songwriter or legendary artist.</info>
+			</channel>
+			<channel>
+				<title>FINE TUNING&#174;</title>
+				<logo>logos/finetuning.swf</logo>
+				<heading>76</heading>
+				<info>Great players and superb melodies culled from every imaginable genre around the world.</info>
+			</channel>
+			<channel>
+				<title>AUDIO VISIONS&#174;</title>
+				<logo>logos/audiovisions.swf</logo>
+				<heading>77</heading>
+				<info>Surrounded by nature, inspired by poetry, and soothed with dreamy, flowing, electronic, and acoustic music and voices.</info>
+			</channel>
+			<channel>
+				<title>ESCAPE</title>
+				<logo>logos/escape.swf</logo>
+				<heading>78</heading>
+				<info>Easy instrumental and vocal favorites and the great popular melodies of the last sixty years.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>DANCE MUSIC</title>
+		<channels>
+			<channel>
+				<title>THE MOVE</title>
+				<logo>logos/themove.swf</logo>
+				<heading>80</heading>
+				<info>The first 24/7 club-culture dance channel playing house, progressive, drum'n bass, and downtempo.</info>
+			</channel>
+			<channel>
+				<title>BPM</title>
+				<logo>logos/bpm.swf</logo>
+				<heading>81</heading>
+				<info>Spinning the remixes, club hits, and pop crossovers that bring the energy and passion of a weekend party into every day and night.</info>
+			</channel>
+			<channel>
+				<title>THE SYSTEM</title>
+				<logo>logos/thesystem.swf</logo>
+				<heading>82</heading>
+				<info>Trance, Breaks, Progressive: uncompromising, pure, relentless, and international electronic dance.</info>
+			</channel>
+			<channel>
+				<title>CHROME</title>
+				<logo>logos/chrome.swf</logo>
+				<heading>83</heading>
+				<info>Return to the decade of disco. Plus classic dance, funk, and freestyle from the 80s.</info>
+			</channel>
+			<channel>
+				<title>XM-CHILL</title>
+				<logo>logos/xmchill.swf</logo>
+				<heading>84</heading>
+				<info>A place that pulses with the exotic and cerebral music known as smooth electronica.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>LATIN MUSIC</title>
+		<channels>
+			<channel>
+				<title>FUEGO</title>
+				<logo>logos/fuego.swf</logo>
+				<heading>90</heading>
+				<info>The hottest sounds in Latin music: a mix of Reggaeton, Latin Hip-Hop, and Rap. En Espa&#241;ol.</info>
+			</channel>
+			<channel>
+				<title>VIVA</title>
+				<logo>logos/viva.swf</logo>
+				<heading>91</heading>
+				<info>The contemporary side of Latin pop. En Espa&#241;ol.</info>
+			</channel>
+			<channel>
+				<title>AGUILA</title>
+				<logo>logos/aguila.swf</logo>
+				<heading>92</heading>
+				<info>A celebration of regional Mexican music: norte–&#241;o, tejano, cumbia, banda, mariachi, and rancheras. En Espa&#241;ol.</info>
+			</channel>
+			<channel>
+				<title>CALIENTE</title>
+				<logo>logos/caliente.swf</logo>
+				<heading>94</heading>
+				<info>Distinctive flavors of the tropics featuring salsa, merengue, bachata, and more.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>WORLD MUSIC</title>
+			<channels>
+			<channel>
+				<title>AIR MUSIQUE</title>
+				<logo>logos/airmusique.swf</logo>
+				<heading>100</heading>
+				<info>A fusion of punk, hip-hop, metal, electronic, and alternative rock from the world music scene. </info>
+			</channel>
+			<channel>
+				<title>THE JOINT</title>
+				<logo>logos/thejoint.swf</logo>
+				<heading>101</heading>
+				<info>Listen to roots reggae, ska, rock steady, dancehall, and dub on our daily trip to Jamaica.</info>
+			</channel>
+			<channel>
+				<title>SUR LA ROUTE</title>
+				<logo>logos/surlaroute.swf</logo>
+				<heading>102</heading>
+				<info>A blend of modern and classic pop, folk, rock n' roll, "chanson," and soul.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>CLASSICAL MUSIC</title>
+			<channels>
+			<channel>
+				<title>XM CLASSICS</title>
+				<logo>logos/xmclassics.swf</logo>
+				<heading>110</heading>
+				<info>From full-length symphonies and chamber music to the intimacies of a solo recital and the grandeur of choral masterworks.</info>
+			</channel>
+			<channel>
+				<title>VOX</title>
+				<logo>logos/vox.swf</logo>
+				<heading>112</heading>
+				<info>The human voice in all its glory and variety, from lieder to opera to oratorio.</info>
+			</channel>
+			<channel>
+				<title>XM POPS</title>
+				<logo>logos/xmpops.swf</logo>
+				<heading>113</heading>
+				<info>Beethoven or Bach, it's classical music for everyone.</info>
+			</channel>
+	</channels>
+	</genre>
+	<genre>
+		<title>KIDS MUSIC</title>
+			<channels>
+			<channel>
+				<title>RADIO DISNEY</title>
+				<logo>logos/radiodisney.swf</logo>
+				<heading>115</heading>
+				<info>This party rocks with the music that kids and tweens want to hear.</info>
+			</channel>
+			<channel>
+				<title>XM KIDS</title>
+				<logo>logos/xmkids.swf</logo>
+				<heading>116</heading>
+				<info>Part playhouse, part songfest, and all fun.</info>
+			</channel>
+		</channels>
+	</genre>
+</mainGenre>	
+<mainGenre>
+	<genre>
+		<title>NEWS</title>
+			<channels>
+			<channel>
+				<title>FOX NEWS</title>
+				<logo>logos/foxnews.swf</logo>
+				<heading>121</heading>
+				<info>More information presented in a fair and balanced format.</info>
+			</channel>
+			<channel>
+				<title>CNN</title>
+				<logo>logos/cnn.swf</logo>
+				<heading>122</heading>
+				<info>The latest, breaking news with on-the-spot coverage and up-to-the-minute updates.</info>
+			</channel>
+			<channel>
+				<title>CNN HEADLINE NEWS</title>
+				<logo>logos/cnnheadlinenews.swf</logo>
+				<heading>123</heading>
+				<info>Top stories, financial, weather, sports, and entertainment news all in 15 minutes.</info>
+			</channel>
+			<channel>
+				<title>ABC NEWS and TALK</title>
+				<logo>logos/abcnewsandtalk.swf</logo>
+				<heading>124</heading>
+				<info>The first place to turn for news, issues, and the compelling topics that interest you most.</info>
+			</channel>
+			<channel>
+				<title>THE WEATHER CHANNEL</title>
+				<logo>logos/theweatherchannel.swf</logo>
+				<heading>125</heading>
+				<info>Weather, 24 hours a day, with national and regional reports.</info>
+			</channel>
+			<channel>
+				<title>CNN EN ESPA&#209;OL</title>
+				<logo>logos/cnnespanol.swf</logo>
+				<heading>126</heading>
+				<info>CNN's 24-hour Spanish-language news network.</info>
+			</channel>
+			<channel>
+				<title>CNBC</title>
+				<logo>logos/cnbc.swf</logo>
+				<heading>127</heading>
+				<info>The recognized global leader in business news.</info>
+			</channel>
+			<channel>
+				<title>BLOOMBERG RADIO</title>
+				<logo>logos/bloombergradio.swf</logo>
+				<heading>129</heading>
+				<info>From Wall Street to London to Tokyo, in-depth coverage of international capital markets.</info>
+			</channel>
+			<channel>
+				<title>BBC WORLD SERVICE</title>
+				<logo>logos/bbc.swf</logo>
+				<heading>131</heading>
+				<info>News as it breaks from around the world.</info>
+			</channel>
+			<channel>
+				<title>C-SPAN RADIO</title>
+				<logo>logos/cspanradio.swf</logo>
+				<heading>132</heading>
+				<info>From the halls of Congress, U.S. agency hearings, committee meetings, and policy-shaping events.</info>
+			</channel>
+			<channel>
+				<title>XM PUBLIC RADIO</title>
+				<logo>logos/xmpublicradio.swf</logo>
+				<heading>133</heading>
+				<info>Insightful, entertaining, and provocative programming with some of the most respected names in public broadcasting.</info>
+			</channel>
+			<channel>
+				<title>CANADA 360</title>
+				<logo>logos/canada360.swf</logo>
+				<heading>244</heading>
+				<info>A new perspective on news coming straight out of Canada.</info>
+			</channel>
+			<channel>
+				<title>QUOI DE NEUF</title>
+				<logo>logos/quoideneuf.swf</logo>
+				<heading>245</heading>
+				<info>Arts and entertainment news are brought to you in French twenty-four hours a day. </info>
+			</channel>
+		</channels>
+	</genre>
+</mainGenre>	
+<mainGenre>
+	<genre>	
+		<title>SPORTS</title>
+		<channels>
+			<channel>
+				<title>ESPN RADIO</title>
+				<logo>logos/espnradio.swf</logo>
+				<heading>140</heading>
+				<info>Sports news, information, and play-by-plays from the worldwide leader in sports.</info>
+			</channel>
+			<channel>
+				<title>ESPNEWS</title>
+				<logo>logos/espnnews.swf</logo>
+				<heading>141</heading>
+				<info>Up-to-the-minute coverage of everything in the world of sports.</info>
+			</channel>
+			<channel>
+				<title>FOX SPORTS RADIO</title>
+				<logo>logos/foxradio.swf</logo>
+				<heading>142</heading>
+				<info>Caller-intensive and personality-driven, it's all about your opinions and your favorite sports.</info>
+			</channel>
+			<channel>
+				<title>XMSN RADIO</title>
+				<logo>logos/nascar.swf</logo>
+				<heading>144</heading>
+				<info>XM Sports Nation is your home for sports talk. Basketball, football, hockey, racing and more.</info>
+			</channel>
+			<channel>
+				<title>INDYCAR SERIES RACING</title>
+				<logo>logos/indycar.swf</logo>
+				<heading>145</heading>
+				<info>XM is the exclusive satellite radio partner of the Indy Racing League.</info>
+			</channel>
+			<channel>
+				<title>PGA TOUR NETWORK  </title>
+				<logo>logos/pgatour.swf</logo>
+				<heading>146</heading>
+				<info>Golf news, tournament scores, and player highlights from the PGA TOUR, Champions Tour, and Nationwide Tour.</info>
+			</channel>
+			<channel>
+				<title>XM DEPORTIVO</title>
+				<logo>logos/xmdeportivo.swf</logo>
+				<heading>147</heading>
+				<info>A full-access pass to Spanish language sports around the world.</info>
+			</channel>
+			<channel>
+				<title>SPORT PLUS</title>
+				<logo>logos/sportplus.swf</logo>
+				<heading>172</heading>
+				<info>It's your place for Canadian news, talk, and information en Francais.</info>
+			</channel>
+			<channel>
+				<title>XM SPORTS GUIDE</title>
+				<logo>logos/xmsportsguide.swf</logo>
+				<heading>174</heading>
+				<info>A channel to find out what's on all of XM's sports offerings.</info>
+			</channel>
+			<channel>
+				<title>MLB HOME PLATE&#8482;</title>
+				<logo>logos/mlb.swf</logo>
+				<heading>175</heading>
+				<info>The world's first 24/7 channel dedicated exclusively to Major League Baseball.</info>
+			</channel>
+			<channel>
+				<title>MLB PLAY-BY-PLAY CHANNELS</title>
+				<logo>logos/mlb.swf</logo>
+				<heading>176-189</heading>
+				<info>Every MLB team, all season long on XM Channels 176-189.</info>
+			</channel>
+			<channel>
+				<title>MLB PLAY-BY-PLAY EN ESPA&#209;OL</title>
+				<logo>logos/mlb.swf</logo>
+				<heading>190</heading>
+				<info>Baseball news and play-by-play coverage of the hottest games en Espa&#241;ol.</info>
+			</channel>
+			<channel>
+				<title>COLLEGE SPORTS - ACC</title>
+				<logo>logos/acc.swf</logo>
+				<heading>191-193</heading>
+				<info>XM delivers Atlantic Coast Conference football and basketball to fans and alumni coast to coast.</info>
+			</channel>
+			<channel>
+				<title>COLLEGE SPORTS PAC-10</title>
+				<logo>logos/pac10.swf</logo>
+				<heading>194-196</heading>
+				<info>XM delivers PAC-10 Conference football and basketball to fans and alumni coast to coast.</info>
+			</channel>
+			<channel>
+				<title>COLLEGE SPORTS - BIG TEN</title>
+				<logo>logos/bigten.swf</logo>
+				<heading>197-199</heading>
+				<info>XM delivers Big Ten Conference football and basketball to fans and alumni coast to coast.</info>
+			</channel>
+			<channel>
+				<title>HOME ICE</title>
+				<logo>logos/homeice.swf</logo>
+				<heading>204-209</heading>
+				<info>The puck drops every day in the world's fastest sport on the world's first hockey channel.</info>
+			</channel>
+		</channels>
+	</genre>
+</mainGenre>	
+<mainGenre>
+	<genre>
+		<title>COMEDY</title>
+		<channels>
+			<channel>
+				<title>XM COMEDY</title>
+				<logo>logos/xmcomedy.swf</logo>
+				<heading>150</heading>
+				<info>Uninhibited and uncensored standup comedy acts 24 hours a day.</info>
+			</channel>
+			<channel>
+				<title>LAUGH USA</title>
+				<logo>logos/laughusa.swf</logo>
+				<heading>151</heading>
+				<info>If you love to laugh, we&#8217;ve got you covered.</info>
+			</channel>
+			<channel>
+				<title>LAUGH ATTACK</title>
+				<logo>logos/laughattack.swf</logo>
+				<heading>153</heading>
+				<info>The comic spotlight is on Canada's rich pool of extraordinary comedic talent.</info>
+			</channel>
+			<channel>
+				<title>NATIONAL LAMPOON</title>
+				<logo>logos/nationalLampoon.swf</logo>
+				<heading>154</heading>
+				<info>Stand-up, satirical news, sports segments, parody songs, and prank phone calls.</info>
+			</channel>
+		</channels>
+	</genre>
+</mainGenre>	
+<mainGenre>
+	<genre>
+		<title>TALK</title>
+		<channels>
+			<channel>
+				<title>EXTREME XM</title>
+				<logo>logos/extremexm.swf</logo>
+				<heading>152</heading>
+				<info>Talk radio that is always entertaining, always informative, and often extreme. </info>
+			</channel>
+			<channel>
+				<title>TAKE FIVE</title>
+				<logo>logos/takefive.swf</logo>
+				<heading>155</heading>
+				<info>A dynamic talk radio channel that discusses lifestyles, current events, and pop culture 24/7.</info>
+			</channel>
+			<channel>
+				<title>OPRAH & FRIENDS</title>
+				<logo>logos/oprah.swf</logo>
+				<heading>156</heading>
+				<info>Oprah's friends are now just a phone call away.</info>
+			</channel>			
+			<channel>
+				<title>E! ENTERTAINMENT RADIO</title>
+				<logo>logos/e.swf</logo>
+				<heading>162</heading>
+				<info>A colorful daily dose of entertainment industry dish.</info>
+			</channel>
+			<channel>
+				<title>SONIC THEATER</title>
+				<logo>logos/sonictheater.swf</logo>
+				<heading>163</heading>
+				<info>Feel the drama. Live the suspense. Hear the story unfold.</info>
+			</channel>
+			<channel>
+				<title>RADIO CLASSICS</title>
+				<logo>logos/radioclassics.swf</logo>
+				<heading>164</heading>
+				<info>Experience the audio magic of legendary old time radio dramas, mysteries, comedies, and variety programs.</info>
+			</channel>
+			<channel>
+				<title>TALK RADIO</title>
+				<logo>logos/talkradio.swf</logo>
+				<heading>165</heading>
+				<info>Clear, no-nonsense advice and opinions.</info>
+			</channel>
+			<channel>
+				<title>AMERICA RIGHT</title>
+				<logo>logos/americaright.swf</logo>
+				<heading>166</heading>
+				<info>A host of talk radio personalities with more conservative viewpoints on politics and current issues.</info>
+			</channel>
+			<channel>
+				<title>AIR AMERICA RADIO  </title>
+				<logo>logos/airamerica.swf</logo>
+				<heading>167</heading>
+				<info>Fresh viewpoints on politics and current events with a progressive twist.</info>
+			</channel>
+			<channel>
+				<title>FOX NEWS TALK</title>
+				<logo>logos/foxnewstalk.swf</logo>
+				<heading>168</heading>
+				<info>Talk News like only Fox can give you.</info>
+			</channel>
+			<channel>
+				<title>THE POWER</title>
+				<logo>logos/thepower.swf</logo>
+				<heading>169</heading>
+				<info>Conversation about social, political, and economic issues from the African American perspective.</info>
+			</channel>
+			<channel>
+				<title>FAMILYTALK</title>
+				<logo>logos/familytalk.swf</logo>
+				<heading>170</heading>
+				<info>Featuring the best in Christian Teaching Ministries, powerful talk radio, and entertainment.</info>
+			</channel>
+			<channel>
+				<title>OPEN ROAD</title>
+				<logo>logos/openroad.swf</logo>
+				<heading>171</heading>
+				<info>Important interstate weather, traffic, and trucking industry information 24/7.</info>
+			</channel>
+			<channel>
+				<title>WLW</title>
+				<logo>logos/wlw.swf</logo>
+				<heading>173</heading>
+				<info>"The Nation's Station" features "The Big Ones" in talk radio.</info>
+			
+			</channel>
+			 <channel>
+				<title>XM LIVE</title>
+				<logo>logos/xmlive.swf</logo>
+				<heading>200</heading>
+				<info>Live performances, concerts, festivals, and XM's exclusive original programming.</info>
+			</channel>
+			<channel>
+				<title>THE VIRUS</title>
+				<logo>logos/highvoltage.swf</logo>
+				<heading>202</heading>
+				<info>Beware!  This is radio like you've never heard it before.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>REGIONAL TALK, NEWS and MUSIC</title>
+		<channels>
+			<channel>
+				<title>NASHVILLE</title>
+				<logo>logos/nashville.swf</logo>
+				<heading>11</heading>
+				<info>The home of today's country hits and the biggest songs from the past 20 years.</info>
+			</channel>
+			<channel>
+				<title>KISS</title>
+				<logo>logos/kiss.swf</logo>
+				<heading>21</heading>
+				<info>Fresh hits of pop, rock, and R&#38;B.</info>
+			</channel>
+			<channel>
+				<title>MIX</title>
+				<logo>logos/mix.swf</logo>
+				<heading>22</heading>
+				<info>A mix of the top hits from the past 20 years.</info>
+			</channel>
+			<channel>
+				<title>SUNNY</title>
+				<logo>logos/sunny.swf</logo>
+				<heading>24</heading>
+				<info>The greatest melodies of the past 60 years.</info>
+			</channel>
+			<channel>
+				<title>WSIX</title>
+				<logo>logos/wsix.swf</logo>
+				<heading>161</heading>
+				<info>Broadcast live from Nashville.</info>
+			</channel>
+			
+		</channels>
+	</genre>
+</mainGenre>	
+<mainGenre>
+	<genre>	
+		<title>TRAFFIC</title>
+		<channels>
+			<channel>
+				<title>BOSTON, MA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>210</heading>
+				<info>Reports cover major problem areas in and around Boston, including such notorious trouble spots as I-93, I-95, Rt. 128, 495, Rt. 3, Rt. 1, the Mass Pike, Storrow Drive and the Southeast Expressway.</info>
+			</channel>
+			<channel>
+				<title>NEW YORK, NY</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>211</heading>
+				<info>Provides coverage of major roads and bridges/tunnels of New York City and the Tri-State area, including the Five Boroughs, Long Island, Northern New Jersey and Southern Connecticut.</info>
+			</channel>
+			<channel>
+				<title>PHILADELPHIA, PA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>212</heading>
+				<info>Covers major roads such as the Schuykill Expressway (I-76), I-95, Rt. 202, Rt. 422, The Blue Route (I-476) and the Pennsylvania Turnpike.</info>
+			</channel>
+			<channel>
+				<title>BALTIMORE, MD</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>213</heading>
+				<info>Provides traffic information to listeners traveling major roads such as the Baltimore Beltway (I-695), I-83/Jones Falls Expressway, I-95, I-895 (and Ft. McHenry and Harbor Tunnels) and the Baltimore-Washington Parkway.</info>
+			</channel>
+			<channel>
+				<title>WASHINGTON, DC</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>214</heading>
+				<info>Coverage of the Capital Beltway (I-495) and major arteries that feed into DC (e.g., I-270, I-95, Rt. 29, Baltimore-Washington Parkway and Rt. 50 from Maryland; I-95/395, Dulles Toll Road, GW Parkway and 66 from VA), and secondary roads.</info>
+			</channel>
+			<channel>
+				<title>PITTSBURGH, PA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>215</heading>
+				<info>Provides coverage of the major arteries such as I-70, I-79 (including reversible HOV lanes), the PA Turnpike, Parkway North/West (I-279), Parkway East (I-376), Rt. 28 and Rt. 65.</info>
+			</channel>
+			<channel>
+				<title>DETROIT, MI</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>216</heading>
+				<info>Provides coverage throughout the Detroit metropolitan area, including the major freeways/Interstates in the area (Reuther, Chrysler, Fisher, Jeffries, Southfield, Lodge, I-75 and I-375).</info>
+			</channel>
+			<channel>
+				<title>CHICAGO, IL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>217</heading>
+				<info>Covers the major roads motorists drive during rush-hour such as the Expressways (The Dan Ryan, The Edens, The Bishop Ford, The Eisenhower, The Kennedy, The Kingery and The Stevenson), the Tollways, Lakeshore Drive and I-57.</info>
+			</channel>
+			<channel>
+				<title>ST. LOUIS, MO</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>218</heading>
+				<info>Covers major roads to/from Missouri (I-70, I-270, I-170, I-55, I-44, Rt. 40/I-64) and Illinois (I-55/70, I-270, I-64)</info>
+			</channel>
+			<channel>
+				<title>MINNEAPOLIS/ST. PAUL, MN</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>219</heading>
+				<info>Provides coverage of major roadways such as I-94, I-694, I-35E and I-35W.</info>
+			</channel>
+			<channel>
+				<title>SEATTLE, WA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>220</heading>
+				<info>Provides coverage of major roadways such as I-5, I-405, I-90, Highway 520 and Highway 167.</info>
+			</channel>
+			<channel>
+				<title>SAN FRANCISCO BAY AREA, CA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>221</heading>
+				<info>Provides coverage of the San Francisco City, North Bay, East Bay, South Bay and Mid-Peninsula areas.</info>
+			</channel>
+			<channel>
+				<title>LOS ANGELES, CA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>222</heading>
+				<info>Provides coverage of major arteries such as the 5, the 10, the 101, the 605, the 105, the 405, the 110, the 710 throughout Los Angeles, Orange County and the Inland Empire (San Bernardino and Riverside Counties).</info>
+			</channel>
+			<channel>
+				<title>SAN DIEGO, CA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>223</heading>
+				<info>Provides coverage of major roadways such as I-5, I-8, Highway 94, I-805, I-15, as well as the Border Crossing.</info>
+			</channel>
+			<channel>
+				<title>PHOENIX, AZ</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>224</heading>
+				<info>Provides coverage of the major roads in the Phoenix area such as I-10 (including the stacks), I-17, US 60 (Superstition Freeway) and Loop 101.</info>
+			</channel>
+			<channel>
+				<title>DALLAS / FT. WORTH, TX  </title>
+				<logo>logos/traffic.swf</logo>
+				<heading>225</heading>
+				<info>Covers major roadways such as the I-635, I-35, I-30, I-20, Central Expressway, I-820, and extends out to the counties of Collin, Tarrant and Denton.</info>
+			</channel>
+			<channel>
+				<title>HOUSTON, TX</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>226</heading>
+				<info>Covers major roadways such as the I-45, I-10, 59, I-610, and extends out to the counties of Brazoria, Fort Bend, Galveston, Waller, Montgomery, Liberty and Chambers.</info>
+			</channel>
+			<channel>
+				<title>ATLANTA, GA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>227</heading>
+				<info>Providing its listeners traffic situation information for the Atlanta area, XM's Instant Traffic and Weather covers major roadways such as I-75, I-85, the Perimeter, I-20 and the Georgia 400.</info>
+			</channel>
+			<channel>
+				<title>TAMPA, FL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>228</heading>
+				<info>Covers throughout the counties of Hillsborough, Pinellas, Pasco, Polk, Hernando, Manatee and Sarasota.</info>
+			</channel>
+			<channel>
+				<title>ORLANDO, FL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>229</heading>
+				<info>Covers major roads such as the construction-challenged I-4, as well as I-95, the East West and Bee Line Expressways and the Florida Turnpike. Coverage extends throughout the counties of Orange, Seminole, Osceola, Lake and Polk.</info>
+			</channel>
+			<channel>
+				<title>MIAMI / FT. LAUDERDALE, FL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>230</heading>
+				<info>Providing its listeners traffic situation information for the Miami-Ft. Lauderdale area. XM's Instant Traffic and Weather covers major roadways such as I-95, I-75, 836, The Palmetto Expressway, U.S. 1 and 595.</info>
+			</channel>
+			<channel>
+				<title>XM EMERGENCY ALERT 24/7</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>247</heading>
+				<info>Dedicated to providing critical, updated information before, during and after natural disasters, weather emergencies and other hazardous incidents to listeners across the country.</info>
+			</channel>
+		</channels>
+	</genre>
+</mainGenre>	
+	
+

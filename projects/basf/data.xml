@@ -1,0 +1,660 @@
+<data>
+<sections>
+	<section title = 'ECONOMIC INDICATORS'>
+		<nodes>
+			<node>
+				<title>Macro Economic</title>	
+				<subNodes>
+					<node>
+						<title>Subsidies</title>
+						<description>The definition of subsidies includes all direct payments to the farmers by national or supranational authorities, none of which are involved in agri-environmental schemes.</description>	
+					</node>
+					<node>
+						<title>Gross Value of Production (GVP)</title>
+						<description>The goal of this indicator is to compare the production value of agriculture per unit of area and the importance of the agricultural sector to the national economy.</description>
+					</node>
+					<node>
+						<title>Farm Profits</title>
+						<description>This indicator shows the competitiveness/profitability of farmers and farming systems respectively.</description> 
+					</node>
+				</subNodes>
+			</node>
+	
+			<node>
+				<title>Variable Costs</title>
+				<description>This indicator considers costs (in Euro) of seed, fertilization, crop protection products, soil preparation, and machinery.</description>	
+			</node>
+	
+			<node>
+				<title>Fixed Costs</title>
+				<description>This indicator considers costs (in Euro) of labor, deprecation, maintenance/general repair of machinery, buildings, credits, insurance costs, and investment.</description>
+			</node>
+		</nodes>
+	</section>     
+	 
+	<section title = 'ENVIRONMENTAL INDICATORS'>
+		<nodes>
+			<node>
+				<title>Soil</title>	
+				<subNodes>
+					<node>
+						<title>Soil Carbon balance</title>
+						<description>The calculation of this indicator assesses factors such as soil production by plants and the subsequent mineralization of plant waste in proportion to the fruits received from the field.</description>	
+					</node>
+					<node>
+						<title>Nutrients Balance</title>
+						<description>Amount of fertilization, properties of the cropped soils, mineralization processes – all determined by soil properties.</description>  
+					</node>
+	
+					<node>
+						<title>Compaction</title>
+						<description>Soil compaction is the term used to indicate the deterioration of the soil structure by mechanical pressure, predominantly from agricultural practices.</description>
+					</node>
+	
+					<node>
+						<title>Erosion</title>
+						<description>Five major factors are used to calculate the soil loss for a given site. Each factor is the numerical estimate of a specific condition that affects the severity of soil erosion at a particular location.</description>
+					</node>
+				</subNodes>
+			</node>
+	
+			<node>
+				<title>Biodiversity</title>	
+				<subNodes>
+					<node>
+						<title>State Indicator</title>
+						<description>The higher the number of endangered species is, the more vulnerable the ecosystem can be considered.</description>	
+					</node>
+					<node>
+						<title>Agri-Environment Schemes</title>
+						<description>Farmers may receive funding for services that promote elements of biodiversity by various Agri-Environment Schemes, e.g. flower strips, precise timing of mowing or support for traditional farming practices.</description>	
+					</node>
+					<node>
+						<title>Protected Areas</title>
+						<description>The availability of protected (often, but not always uncropped) zones is a very important protection measure that promotes biodiversity in general, in areas inside and outside the protection zones.</description>
+					</node>
+						
+					<node>
+						<title>Ecotoxicity</title>
+						<description>The ecotoxicity of plant protection products has the potential to influence biodiversity. These side-effects are dependent on the product-specific ecotoxicity profile of each compound, which are tested in laboratory, semi-field and field conditions for registration purposes.</description> 
+					</node>
+		
+					<node>
+						<title>Farming Intensity</title>
+						<description>This indicator is evaluated through an assessment of the farming related &#8220;actions&#8221; occurring in the field. These include plowing, mechanical treatments, fertilization, crop protection and have an important impact on primary diversity in ecosystems.</description>	
+					</node>
+	
+					<node>
+						<title>Nitrogen Surplus</title>
+						<description>The availability of nitrogen fertilizer is a key indicator for biodiversity in cultural landscapes and is calculated within this indicator-algorithm.</description>
+					</node>
+						
+					<node>
+						<title>Potential for Intermixing</title> 
+						<description>This refers to crop species that have the potential to intermix with the natural vegetation. The intermixing potential is crop-specific and driven by several parameters.</description>
+					</node>
+						
+					<node>
+						<title>Crop Rotation</title>
+						<description>This indicator shows how to enhance biodiversity by having proper crop rotation. It factors the number of elements in crop rotation within two years.</description> 
+					</node>
+						
+					<node>
+						<title>Water Use</title>
+						<description>This indicator category determines the water footprint. This is calculated from the consumption of water in the life cycle of products and processes within the food and feed value chain.</description> 
+					</node>
+				</subNodes>
+			</node>
+
+			<node>
+				<title>Land Use</title>
+				<description>Agricultural production specifically relies on land as a crucial resource. The land indicator category in AgBalance takes into account the amount of land needed for a production system and the suitability of that land for eco-systems.</description> 
+			</node>
+	
+			<node>
+				<title>Energy Consumption</title>
+				<description>The use of primary energy in a product system should be as efficient as possible, mitigating against carbon emissions and preserving resources. This category takes into account the consumption of renewable and non-renewable energy in the life cycle of products and processes within the food and feed value chain.</description>
+			</node>
+	
+			<node>
+				<title>Emissions</title>
+				<description>Calculates Air emissions, Greenhouse Gases, Acidification Potential, Ozone depletion potential, Photochemical Oxidation Creation potential, Water emissions, Solid Waste.</description>
+			</node>
+			<node>
+				<title>Resource Consumption</title>
+				<description>The depletion of non-renewable resources is a risk to our society. This not only relates to fossil resources but also to all kinds of other resources, e.g., rare metals/elements used in machinery or electronics.</description>
+			</node>
+			<node>
+				<title>Eco-Toxicity Potential</title>
+				<description>This category includes the assessed eco-toxicity potential of the production system. Examples are risk of spills, explosions, hazardous irradiation etc.</description>
+			</node>
+		</nodes>
+	</section>     
+	 
+	<section title ='SOCIAL INDICATORS'>
+		<nodes>
+			<node>
+				<title>Farmer and Entrepreneurs</title>	
+				<subNodes>
+					<node>
+						<title>Wages</title>
+						<description>Wages/salaries of agricultural workers as per customer benefit.</description>
+					</node> 
+					<node>
+						<title>Professional Training</title>
+						<description>Shows the level of education that leads to successful products.</description>
+					</node>	
+					<node>
+						<title>Association Membership</title>
+						<description>The percentage of farmers/workers that are members of agricultural associations; ratio of number of different associations per farmer/worker.</description>
+					</node>
+					<node>
+						<title>Wages and Salaries, prechain</title>
+						<description>This indicator takes the wages and salaries in the prechain into account. 	Higher wages show an increased social security.</description>
+					</node>
+					<node>
+						<title>Toxicity Potential</title>
+						<description>This reflects potential human health impacts on employees or farmers. The assessment takes into account the toxicity potential of materials, which are part of the studied system and a simple estimate of the exposure risk.</description>
+					</node> 
+					<node>
+						<title>Risk Potential</title>
+						<description>The indicator evaluates potential of working accidents and/or occupational Diseases.</description>
+					</node>	
+	
+					<node>
+						<title>Strikes and Lockouts</title>
+						<description>A low number of strikes and lockouts indicates a higher satisfaction of workers. Freedom to assembly and guarantee of human rights is taken as granted.</description>
+					</node>	
+				</subNodes>
+			</node>
+	
+			<node>
+				<title>Consumer</title>	
+				<subNodes>
+					<node>
+						<title>Residues in Feed &amp; Food</title>
+						<description>This indicator describes the percentage of samples of food that exceed official Maximum Residue Limits (MRLs). It is expressed in terms of exceedences.</description>
+					</node>			
+					<node>
+						<title>Unauthorized/Unlabeled GMO</title>
+						<description>The occurrence of food products containing unauthorized or unlabeled genetically modified organisms (GMO).</description> 
+					</node>			
+					<node>
+						<title>Toxicity Potential</title>
+						<description>Consumers can sometimes be confronted with toxic substances. It is a measure of risks to human health.</description>
+					</node>							
+					<node>
+						<title>Functional Product Characteristics</title>
+						<description>Considers functionality and possible risks of technologies and/or products.</description>
+					</node>		
+				</subNodes>
+			</node>
+	
+			<node>
+				<title>Local &amp; National Community</title>	
+				<subNodes>
+					<node>
+						<title>Access to Land</title>
+						<description>This indicator calculates the percentage of the leased land – within the agricultural area – that is used for the benefit of the customer, multiplied by the leasing rent.</description>
+					</node>							
+					<node>
+						<title>Number of Employees</title>
+						<description>This indicator shows how a substance contributes to the welfare of a national region. This indicator therefore calculates the number of employed people per customer benefit.</description>
+					</node>							
+					<node>
+						<title>Gender Equality</title>
+						<description>The deviation of the percentage of women who are farm managers in the agricultural sector from the societal percentage of the female population.</description>
+					</node>							
+					<node>
+						<title>Integration</title>
+						<description>Employment of people with (severe) disabilities.</description>
+					</node>							
+					<node>
+						<title>Qualified Employees</title>
+						<description>Working time of all employees excluded unskilled workers associated with the product system.</description>
+					</node>							
+					<node>
+						<title>Employees</title>
+						<description>Working time of all employees associated with the product system.</description>
+					</node>							
+					<node>
+						<title>Part Time workers</title>
+						<description>A higher level of flexible working schemes associated with the production system is seen as more desirable.</description>
+					</node>							
+					<node>
+						<title>Family Support</title>
+						<description>ncludes parental leave and other bonus for marriage and children, benefits for diseases, birth, death etc. A higher value of family support is associated with a more desirable situation.</description>
+					</node>							 
+				</subNodes>
+			</node>
+	
+			<node>
+				<title>International Community</title>	
+				<subNodes>
+					<node>
+						<title>Developing Countries Import</title>
+						<description>Trade balance relating to trade with developing countries.</description>
+					</node> 
+					<node>
+						<title>Fair Trade Benefits</title>
+						<description>Producer Prices, including price advantages and premiums paid through the Fair Trade program.</description>
+					</node> 
+					
+					<node>
+						<title>Foreign Direct Investment</title>	
+						<description>Focus on developing countries – from the perspective of the country under study. A higher value represents a more desirable situation.</description>
+					</node>
+					<node>
+						<title>Child Labour</title>
+						<description>Observes child labor across all life-cycle steps. This takes into account the degree to which child labor is associated with the production of certain products that are part of the studied system.</description>
+					</node>
+				</subNodes>
+			</node>	
+	 
+			<node>
+				<title>Future Generations</title>	
+				<subNodes>
+					<node>
+						<title>Trainees</title>	
+						<description>Shows how the next generation is involved in the industrial processes and what will help support their education more effectively. This indicator assesses the number of trainees along the whole supply chain.</description>
+					</node>
+					<node>
+						<title>Social Security</title>	
+						<description>Shows the level of living conditions and of social services that will be provided within community. The impact of a failed authorization: reduction or increase in life style-and general living standards for people that need social support.</description>
+					</node>
+					<node>
+						<title>R&amp;D Expenditures</title> 	
+						<description>The internal and external expenditures of companies in research and development activities. This also relates to education and research, both of which serve to develop and maintain human capital.</description>
+					</node> 
+					<node>
+						<title>Capital Investments</title>	
+						<description>The definition covers the value of replacement and net investment, including general repair, purchase of concessions, patents and licenses.</description>
+					</node>
+				</subNodes>
+			</node>
+		</nodes>
+	</section>  
+</sections>	 
+
+
+<indicators_chart>
+	<dimension title = 'economy'>
+		<indicators>
+			<indicator title = 'Labour'> 	
+				<tab>1.00</tab>
+				<tab>1.31</tab>
+				<tab>1.31</tab>
+			</indicator>	
+			<indicator title = 'Deprecations'>
+				<tab>1.00</tab>
+				<tab>1.51</tab>
+				<tab>1.51</tab>
+			</indicator>	
+			<indicator title = 'Seed'>
+				<tab>1.08</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			<indicator title = 'Fertilizer'>
+				<tab>1.00</tab>
+				<tab>1.23</tab>
+				<tab>1.23</tab>
+			</indicator>
+			<indicator title = 'Crop Protection'>
+				<tab>1.00</tab>
+				<tab>1.22</tab>
+				<tab>1.26</tab>
+			</indicator>
+			<indicator title = 'Farm Profits'>
+				<tab>1.00</tab>
+				<tab>1.38</tab>
+				<tab>1.38</tab>
+			</indicator>
+			<indicator title = 'Subsidies'>
+				<tab>1.00</tab>
+				<tab>1.23</tab>
+				<tab>1.23</tab>
+			</indicator>
+			<indicator title = 'GVP'> 
+				<tab>1.29</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>	
+		</indicators>
+	</dimension>
+
+	<dimension title = 'Social'>			
+		<indicators>				
+			<indicator title = 'Working Accidents'>	
+				<tab>1.00</tab>
+				<tab>1.71</tab>
+				<tab>1.71</tab>
+			</indicator>			
+			
+			<indicator title = 'Toxicity Potential'> 			
+				<tab>1.00</tab>
+				<tab>1.31</tab>
+				<tab>1.63</tab>
+			</indicator>
+
+			<indicator title = 'Wages'>
+				<tab>1.56</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+
+			<indicator title = 'Professional Training'>
+				<tab>1.00</tab>
+				<tab>1.23</tab>
+				<tab>1.23</tab>
+			</indicator>
+
+			<indicator title = 'Organization'>
+				<tab>1.00</tab>
+				<tab>1.06</tab>
+				<tab>1.06</tab>
+			</indicator>
+
+			<indicator title = 'Residues in Food &amp; Feed'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			
+			<indicator title = 'Residues of GMO in Food'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+
+			<indicator title = 'Access to Land'>
+				<tab>1.00</tab>
+				<tab>1.28</tab>
+				<tab>1.28</tab>
+			</indicator>
+
+			<indicator title = 'Employment'>
+				<tab>1.64</tab>
+				<tab>1.06</tab>
+				<tab>1.00</tab>
+			</indicator>
+
+			<indicator title = 'Gender Equality'>
+				<tab>1.00</tab>
+				<tab>1.13</tab>
+				<tab>1.13</tab>
+			</indicator>
+
+			<indicator title = 'Integration'>
+				<tab>1.63</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+
+			<indicator title = 'Trainees'>
+				<tab>1.36</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+
+			<indicator title = 'Social Security'>
+				<tab>1.00</tab>
+				<tab>1.36</tab>
+				<tab>1.36</tab>
+			</indicator>
+
+			<indicator title = 'Imports from Devel. Countries'>
+				<tab>1.00</tab>
+				<tab>1.88</tab>
+				<tab>1.88</tab>
+			</indicator>
+
+			<indicator title = 'Fair Trade'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>	
+			</indicator>
+		
+		</indicators>
+	</dimension>		
+	
+	<dimension title = 'ecology'>
+		<indicators>
+			<indicator title = 'Agri-environ.schemes'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>	
+			<indicator title = 'Protected Areas'>
+				<tab>1.00</tab>
+				<tab>1.15</tab>
+				<tab>1.15</tab>
+			</indicator>
+			<indicator title = 'Crop rotation'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			<indicator title = 'Eco-Tox'>
+				<tab>1.00</tab>
+				<tab>1.03</tab>
+				<tab>1.05</tab>
+			</indicator>
+			<indicator title = 'Farming Intensity'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			<indicator title = 'Intermixing potential'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>	
+			</indicator>
+			<indicator title = 'N-surplus'>
+				<tab>1.00</tab>
+				<tab>1.08</tab>
+				<tab>1.16</tab>
+			</indicator>
+			<indicator title = 'Nutrients balance'>
+				<tab>1.00</tab>
+				<tab>1.04</tab>
+				<tab>1.19</tab>
+			</indicator>
+			<indicator title = 'Soil carbon balance'>
+				<tab>1.00</tab>
+				<tab>1.02</tab>
+				<tab>1.08</tab>
+			</indicator>
+			<indicator title = 'Soil compaction'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			<indicator title = 'Soil erosion'>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			<indicator title = 'Actual agricult. Area'>
+				<tab>1.00</tab>
+				<tab>1.34</tab>
+				<tab>1.34</tab>
+			</indicator>
+			<indicator title = 'Total agricult. area'>
+				<tab>1.00</tab>
+				<tab>1.34</tab>
+				<tab>1.34</tab>
+			</indicator>
+			<indicator title = 'Total water use'>
+				<tab>1.06</tab>
+				<tab>1.00</tab>
+				<tab>1.00</tab>
+			</indicator>
+			<indicator title = 'Water emission'>
+				<tab>1.00</tab>
+				<tab>1.21</tab>
+				<tab>1.32</tab>
+			</indicator>
+			<indicator title = 'Greenhouse gases'>
+				<tab>1.00</tab>
+				<tab>1.25</tab>
+				<tab>1.57</tab>
+			</indicator>
+			<indicator title = 'Air emissions'>
+				<tab>1.00</tab>
+				<tab>1.24</tab>
+				<tab>1.80</tab>
+			</indicator>
+		</indicators>
+	</dimension>	
+</indicators_chart>	
+	
+				
+<sustainability_chart>
+	<bars>
+		<tab>1.00</tab>
+		<tab>1.38</tab>
+		<tab>1.48</tab>	
+	</bars>
+</sustainability_chart>	
+	
+	
+<yield_chart>
+	<markers>
+		<tab>2.7</tab>
+		<tab>4.1</tab>
+		<tab>4.1</tab>
+	</markers>	
+</yield_chart>	
+			
+	
+	
+<flower_chart>
+	<chart title = 'categories'>
+		<categories>
+			<category title = 'Consumer'>			
+				<tab>1</tab>	
+				<tab>1</tab>	
+				<tab>1</tab>
+			</category>
+			<category title = 'Local/National Community'>			
+				<tab>1.19</tab>	
+				<tab>1</tab>	
+				<tab>1</tab>
+			</category>
+			<category title = 'Future Generations'>			
+				<tab>1.2</tab>	
+				<tab>1</tab>	
+				<tab>1.2</tab>
+			</category>
+			<category title = 'International Community'>			
+				<tab>1</tab>
+				<tab>1.6</tab>
+				<tab>1.6</tab>
+			</category>	
+			<category title = 'Ecotoxicity Potential'>			
+				<tab>1</tab>	
+				<tab>1.43</tab>	
+				<tab>1.3</tab>
+			</category>		
+			<category title = 'Emissions'>			
+				<tab>1</tab>	
+				<tab>1.23</tab>	
+				<tab>1.56</tab>
+			</category>
+			<category title = 'Resource Depletion'>			
+				<tab>1</tab>	
+				<tab>1.17</tab>	
+				<tab>1.17</tab>
+			</category>	
+			<category title = 'Soil Index'>			
+				<tab>1</tab>	
+				<tab>1.02</tab>	
+				<tab>1.03</tab>
+			</category>	
+			<category title = 'Energy Consumption'>			
+				<tab>1</tab>	
+				<tab>1.27</tab>	
+				<tab>1.31</tab>
+			</category>		
+			<category title = 'Water Use'>			
+				<tab>1</tab>	
+				<tab>1.33</tab>	
+				<tab>1.33</tab>
+			</category>
+			<category title = 'Land Use'>			
+				<tab>1</tab>	
+				<tab>1.33</tab>	
+				<tab>1.33</tab>
+			</category>	
+			<category title = 'Biodiversity '>			
+				<tab>1</tab>	
+				<tab>1.25</tab>	
+				<tab>1.31</tab>
+			</category>
+			<category title = 'Macro Economy'>			
+				<tab>1</tab>	
+				<tab>1.16</tab>	
+				<tab>1.16</tab>
+			</category>						
+			<category title = 'Fixed Costs'>			
+				<tab>1</tab>	
+				<tab>1.39</tab>	
+				<tab>1.39</tab>
+			</category>
+			<category title = 'Variable Costs'>			
+				<tab>1</tab>	
+				<tab>1</tab>	
+				<tab>1</tab>
+			</category>
+			<category title = 'Farmer / Employee'>			
+				<tab>1</tab>	
+				<tab>1.24</tab>	
+				<tab>1.24</tab>
+			</category>
+		</categories>
+	</chart>
+
+	<chart title = 'dimensions'>
+		<categories>
+			<category title = 'Economy'> 			
+				<tab>1</tab>	
+				<tab>1.36</tab>	
+				<tab>1.36</tab>
+			</category>
+			<category title = 'Social'>			
+				<tab>1</tab>	
+				<tab>1.14</tab>	
+				<tab>1.21</tab>
+			</category>				
+			<category title = 'Ecology'>			
+				<tab>1</tab>	
+				<tab>1.62</tab>	
+				<tab>1.76</tab>
+			</category>
+		</categories>
+	</chart>
+</flower_chart>	
+	
+
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+					
+	
+
+
+  
+</data>

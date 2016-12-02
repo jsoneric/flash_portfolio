@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slides>
+	<slide>
+		<path>images/basf.jpg</path>
+		<title>BASF</title>
+		<info>XML-driven Flash piece used for presentations.</info>	
+		<url>http://www.jasoneric.com/projects/basf</url>
+	</slide>
+	<slide>
+		<path>images/bloomberg.png</path>
+		<title>Bloomberg</title>
+		<info>Multiple HTML emails.</info>	
+		<url>http://www.jasoneric.com/projects/bloomberg/invite_black.html</url>
+	</slide>	
+	<slide>
+		<path>images/bobira.swf</path>
+		<title>Bobira Design</title>
+		<info>Kite-flying Flash site for a boutique design studio.</info>	
+		<url>http://www.jasoneric.com/projects/bobira</url>
+	</slide>
+	<slide>
+		<path>images/citiBank.swf</path>
+		<title>Citibank</title>
+		<info>Customized "Pong" and "Staring" games.</info>	
+		<url>http://www.jasoneric.com/projects/citi_bank/pong</url>
+	</slide>
+	<slide>
+		<path>images/buzz_battle.swf</path>
+		<title>DK Publishing</title>
+		<info>A Flash game. Choose your bug, and fight to the death!</info>	
+		<url>http://jasoneric.com/projects/dk/buzz_battle</url>
+	</slide>
+	<slide>
+		<path>images/do_not_click.jpg</path>
+		<title>DK Publishing</title>
+		<info>Interactive micro-site for a children's spy book.</info>	
+		<url>http://jasoneric.com/projects/dk/do_not_click</url>
+	</slide>	
+	<slide>
+		<path>images/dow.png</path>
+		<title>DOW Solar</title>
+		<info>Wep app that allows user to see a solar panel on their own roof.</info>	
+		<url>http://www.dowpowerhouse.com/reinvent/</url>
+	</slide>	 
+	<slide>
+		<path>images/hetkamp_wohnt.png</path>
+		<title>Hetkamp Wohnt</title>	
+		<info>Flash micro-site for a German interior design company.</info>	
+		<url>http://www.hetkamp-wohnt.de/</url>
+	</slide>
+	<slide>
+		<path>images/intel.jpg</path>
+		<title>Intel</title>
+		<info>Various Flash games used for Intel employee training.</info>	
+		<url>http://www.jasoneric.com/projects/intel/game1</url>
+	</slide>
+	<slide>
+		<path>images/mealtime.swf</path>
+		<title>Mealtime</title>
+		<info>An animated recipe card widget.</info>	
+		<url>http://jasoneric.com/projects/mealtime/</url>
+	</slide>
+	<slide>
+		<path>images/hpv.png</path>
+		<title>Merck</title>
+		<info>Flash/Papervision site that shares HPV facts.</info>	
+		<url>http://www.hpv.com/pdc/18to26/hpv/</url>
+	</slide>
+	<slide>
+		<path>images/rei_hike.png</path>
+		<title>REI</title>
+		<info>Rich Media homepage takeover banner.</info>	
+		<url>http://www.jasoneric.com/projects/rei/hike</url>
+	</slide>
+	<slide>
+		<path>images/rei_rain.png</path>
+		<title>REI</title>
+		<info>Rich Media homepage takeover banner.</info>	
+		<url>http://www.jasoneric.com/projects/rei/rain</url>
+	</slide>	
+	<slide>
+		<path>images/sesame_holiday_card.swf</path>
+		<title>Sesame Street</title>	
+		<info>Internal holiday card creator.</info>	
+		<url>http://www.jasoneric.com/projects/sesame_street/holiday_card</url>
+	</slide>
+	<slide>
+		<path>images/somf.jpg</path>
+		<title>Sins of My Father</title>	
+		<info>Flash site for a Pablo Escobar documentary.</info>	
+		<url>http://sinsofmyfather.tv</url>
+	</slide>
+	<slide>
+		<path>images/truyuu.png</path>
+		<title>Truu Yuu</title>
+		<info>Animated Flash presentation.</info>	
+		<url>http://www.jasoneric.com/projects/truyuu</url>
+	</slide>
+	<slide> 
+		<path>images/xm_radio.swf</path> 
+		<title>XM Radio</title> 
+		<info>Flash micro-site with XM Radio demo</info>	
+		<url>http://www.jasoneric.com/projects/xm_radio/learn.html</url> 
+	</slide>	
+</slides>

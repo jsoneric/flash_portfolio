@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+	<recipe>
+		<title>Tossed Salad</title>	
+		<canned_item><![CDATA[Garbanzo Beans, Pears, Mandarin Oranges or Beets]]></canned_item>	
+		<tip><![CDATA[Add a can of fruit or beets to summer salads for extra flavor and nutrition. Or add canned beans for increased protein and fiber.]]></tip>
+		<course>Starter</course>	
+	</recipe>
+	<recipe>
+		<title>Chili</title>	
+		<canned_item><![CDATA[Canned Chicken, Beans, Green Chilies or Black-eyed Peas]]></canned_item>	
+		<tip><![CDATA[Simmer chili with any of these additional ingredients for added flavor and nutrition.]]></tip>
+		<course>Starter</course>	
+	</recipe>
+	<recipe>
+		<title>Nachos</title>	
+		<canned_item><![CDATA[Drained, Diced Tomatoes, Black Beans or Olives]]></canned_item>	
+		<tip><![CDATA[Top your nachos with these additional ingredients for an even tastier Southwest dish.]]></tip>
+		<course>Starter</course>	
+	</recipe>
+	<recipe>
+		<title>Pasta</title>
+		<canned_item><![CDATA[Mushrooms, Cannellini Beans or Drained Tuna]]></canned_item>	
+		<tip><![CDATA[Toss any of these mix-ins into your favorite pasta for added nutrition and flavor boost.]]></tip>
+		<course>Entrée</course>
+	</recipe>
+	<recipe>
+		<title>Baked Chicken</title>	
+		<canned_item><![CDATA[Mushrooms, Olives, Spinach<br>or Sweet Potatoes]]></canned_item>	
+		<tip><![CDATA[Add canned vegetables to baked chicken pieces in the last 15 minutes of cooking for a one-dish meal that takes no extra time.]]></tip>
+		<course>Entrée</course>		
+	</recipe>
+	<recipe>
+		<title>Meatloaf</title>	
+		<canned_item><![CDATA[Mushrooms, Carrots, Tomatoes or Green Beans]]></canned_item>	
+		<tip><![CDATA[Finely chop these ingredients<br>and mix in with ground beef<br>before baking for extra flavor<br>and nutrition.]]></tip>
+		<course>Entrée</course>	
+	</recipe>
+	<recipe>
+		<title>Mashed Potatoes</title>	
+		<canned_item><![CDATA[Sweet Potatoes, Pumpkin, Carrots or Spinach]]></canned_item>	
+		<tip><![CDATA[Change up plain old mashed potatoes with canned vegetables for added color, flavor and nutrients.]]></tip>
+		<course>Side</course>	
+	</recipe>
+	<recipe>
+		<title>Rice</title>	
+		<canned_item><![CDATA[Olives, Black Beans, Kidney Beans<br>or Mixed Vegetables]]></canned_item>	
+		<tip><![CDATA[Prepare rice with low-sodium/low-fat broth to boost flavor, then mix in olives or your favorite vegetables or beans for added color and nutrition.]]></tip>
+		<course>Side</course>	
+	</recipe>
+	<recipe>
+		<title>Macaroni and Cheese</title>	
+		<canned_item><![CDATA[Corn, Tuna or Ham]]></canned_item>	
+		<tip><![CDATA[Combine prepared mac and cheese with corn, tuna or ham in a 9x13" baking dish; top with bread crumbs and bake until golden brown.]]></tip>
+		<course>Side</course>	
+	</recipe>
+	<recipe>
+		<title>Cake</title>	
+		<canned_item><![CDATA[Carrots, Beets or Pumpkin]]></canned_item>	
+		<tip><![CDATA[Experiment. Purée any canned vegetable to replace some of the water or oil in your favorite cake recipe. Results will be more nutritious, delicious and moist.]]></tip>
+		<course>Dessert</course>	
+	</recipe>
+	<recipe>
+		<title>Smoothies</title>	
+		<canned_item><![CDATA[Fruit Cocktail, Peaches or Blueberries]]></canned_item>	
+		<tip><![CDATA[For a quick and tasty smoothie, blend a can of your favorite canned fruit in its own juice with some low-fat yogurt and ice cubes.]]></tip>
+		<course>Dessert</course>	
+	</recipe>
+	<recipe>
+		<title>Sundaes</title>	
+		<canned_item><![CDATA[Pears, Cherries or Pineapple]]></canned_item>	
+		<tip><![CDATA[Top ice cream with hot fudge and your favorite drained, canned fruit for a special take on a classic dessert.]]></tip>
+		<course>Dessert</course>	
+	</recipe>
+</recipes>
+
+
+
+

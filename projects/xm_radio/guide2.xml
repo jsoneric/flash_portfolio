@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<guide>
+	<genre>
+		<title>DECADE MUSIC</title>
+		<channels>
+			<channel>
+				<title>THE 40s</title>
+				<logo>logos/the40s.swf</logo>
+				<heading>THE 40s &#8212; XM 4</heading>
+				<info>Climb aboard the Savoy Express for a trip to yesterday and the sounds of swing. Revel in the heyday of the big bands and the hits of the 40s. All aboard XM.</info>
+			</channel>
+			<channel>
+				<title>THE 50s</title>
+				<logo>logos/the50s.swf</logo>
+				<heading>THE 50s &#8212; XM 5</heading>
+				<info>Relive Rock & Roll's earliest days with Elvis, Buddy and all the legends. Or follow the Hit Parade with the likes of Perry Como and Patti Page.</info>
+			</channel>
+			<channel>
+				<title>THE 60s</title>
+				<logo>logos/the60s.swf</logo>
+				<heading>THE 60s &#8212; XM 6</heading>
+				<info>The times they were a changin' &#8212; from The Beatles to The Temptations...from The Beach Boys to Psychedelia &#8212; presented with all the energy of the legendary Top 40 DJs.</info>
+			</channel>
+			<channel>
+				<title>THE 70s</title>
+				<logo>logos/the70s.swf</logo>
+				<heading>THE 70s &#8212; XM 7</heading>
+				<info>Go ahead: Boogie back to the first disco revolution. Plus, there's Barry Manilow, Fleetwood Mac, The Carpenters and more. All the good stuff &#8212; and no Pet Rocks.</info>
+			</channel>
+			<channel>
+				<title>THE 80s</title>
+				<logo>logos/the80s.swf</logo>
+				<heading>THE 80s &#8212; XM 8</heading>
+				<info>The 80s were a decade &#8212; long hit machine.Turn it back on with an incredible playlist including Culture Club, Hall and Oates, Van Halen, Billy Idol and REO Speedwagon.</info>
+			</channel>
+			<channel>
+				<title>THE 90s</title>
+				<logo>logos/the90s.swf</logo>
+				<heading>THE 90s &#8212; XM 9</heading>
+				<info>The music of the 90s has many faces: the grunge sounds of Nirvana, the Hip-Hop sounds of Biggie. Hear it all in one place and listen up for some fun, entertaining antics.</info>
+			</channel>			
+		</channels>
+	</genre>	
+	<genre>
+		<title>COUNTRY MUSIC</title>
+		<channels>
+			<channel>
+				<title>AMERICA</title>
+				<logo>logos/america.swf</logo>
+				<heading>AMERICA &#8212; XM 10</heading>
+				<info>Dim the lights and throw some sawdust on the floor. Waylon, Willie, Dolly and the whole gang are on hand. The true sound of Country is alive and well.</info>
+			</channel>
+			<channel>
+				<title>X COUNTRY</title>
+				<logo>logos/xcountry.swf</logo>
+				<heading>XCOUNTRY &#8212; XM 12</heading>
+				<info>Country music is going cross-country. The greasiest, grittiest sounds from coast to coast. It twangs, rocks and burns a hole in your soul.</info>
+			</channel>
+			<channel>
+				<title>WILLIE'S PLACE</title>
+				<logo>logos/williesplace.swf</logo>
+				<heading>WILLIE'S PLACE &#8212; XM 13</heading>
+				<info>Willie Nelson is the proprietor of Willie's Place, a place where the honky tonk never closes. There's a cast of characters and the sounds of traditional country from the 50s and 60s. You'll hear artists like Hank Williams, Ray Price, Marty Robbins, Loretta Lynn, and Lefty Frizzell.</info>
+			</channel>
+			<channel>
+				<title>BLUEGRASS JUNCTION   </title>
+				<logo>logos/bluegrassjunction.swf</logo>
+				<heading>BLUEGRASS JUNCTION &#8212; XM 14</heading>
+				<info>It's the best of traditional and progressive Bluegrass coming together in harmony, from Bill Monroe to Hot Rize. From The Stanley Brothers to Chesapeake to New Grass Revival.</info>
+			</channel>
+			<channel>
+				<title>THE VILLAGE</title>
+				<logo>logos/thevillage.swf</logo>
+				<heading>THE VILLAGE &#8212; XM 15</heading>
+				<info>Folk music has a home. From the early ballads to the protest songs of the 60s to today. Hear Woody Guthrie, Bob Dylan, the Chieftans, Pete Seeger, the Kingston Trio, Tom Paxton and more.</info>
+			</channel>
+			<channel>
+				<title>HIGHWAY 16</title>
+				<logo>logos/highway16.swf</logo>
+				<heading>HIGHWAY 16 &#8212; XM 16</heading>
+				<info>America's most popular Country songs from today, played one after another. As familiar as your hometown and as comfortable as worn-in boots, Highway 16 is the place for today's Country.</info>
+			</channel>
+			<channel>
+				<title>U.S. COUNTRY</title>
+				<logo>logos/uscountry.swf</logo>
+				<heading>U.S. COUNTRY &#8212; XM 17</heading>
+				<info>Country superstars are more than what's playing right now. For hits from the late 80s and 90s, a journey into US Country is well worth the visit.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>POP HITS</title>
+		<channels>
+			<channel>
+				<title>TOP 20 ON 20</title>
+				<logo>logos/20on20.swf</logo>
+				<heading>TOP 20 ON 20 &#8212; XM 20</heading>
+				<info>Ever wonder who decides which songs top the charts? With Top 20 on 20, you do. The count changes continuously with each 20&#8212;song cycle. Make your voice heard!</info>
+			</channel>	
+			<channel>
+				<title>THE HEART</title>
+				<logo>logos/theheart.swf</logo>
+				<heading>THE HEART &#8212; XM 23</heading>
+				<info>Get to The Heart of romance with the greatest love songs, requests and dedications from all over America. Celine Dion, Whitney Houston, Phil Collins, Michael Bolton and Boyz II Men.</info>
+			</channel>	
+			<channel>
+				<title>THE BLEND</title>
+				<logo>logos/theblend.swf</logo>
+				<heading>THE BLEND &#8212; XM 25</heading>
+				<info>It's not slow. It's not hard rocking. It's just the biggest hits you loved and still love! It's a musical blend of the greatest songs.</info>
+			</channel>	
+			<channel>
+				<title>FLIGHT 26</title>
+				<logo>logos/flight26.swf</logo>
+				<heading>FLIGHT 26 &#8212; XM 26</heading>
+				<info>Take off for the more adult side of pop hits from the 90s through today. These chart hits are never too young or too hip. John Mayer, Avril Lavigne, Coldplay, Maroon 5 and tons more.</info>
+			</channel>	
+			<channel>
+				<title>CINEMAGIC</title>
+				<logo>logos/cinemagic.swf</logo>
+				<heading>CINEMAGIC &#8212; XM 27</heading>
+				<info>Totally movies &#8212; and totally entertaining. Listen to the latest movie soundtracks as well as the classics. Plus fascinating features, favorite scenes, film reviews and sound bites from the latest releases.</info>
+			</channel>	
+			<channel>
+				<title>ON BROADWAY</title>
+				<logo>logos/onbroadway.swf</logo>
+				<heading>ON BROADWAY &#8212; XM 28</heading>
+				<info>The best songs from the best shows, past and present. Original cast and more recent recordings from The Lion King, The Producers, Oklahoma, Mamma Mia and others playing on The Great White Way.</info>
+			</channel>	
+			<channel>
+				<title>U&#8212;POP</title>
+				<logo>logos/upop.swf</logo>
+				<heading>U&#8212;POP &#8212; XM 29</heading>
+				<info>It's the Pop heard 'round the world. Hear what's topping the charts in England, France, Sweden, Ireland, Belgium, Japan, Africa, Latin America and more.</info>
+			</channel>	
+			<channel>
+				<title>XM HITLIST</title>
+				<logo>logos/xmhitlist.swf</logo>
+				<heading>XM HITLIST &#8212; XM 30</heading>
+				<info>The Hitlist, where all that's played are the Top 40, chart-topping, groove-grinding hits that are unmistakably now. And without a doubt, the moment's best.</info>
+			</channel>	
+		</channels>
+	</genre>
+	<genre>		
+		<title>CHRISTIAN MUSIC</title>
+		<channels>
+			<channel>
+				<title>THE MESSAGE</title>
+				<logo>logos/themessage.swf</logo>
+				<heading>THE MESSAGE &#8212; XM 32</heading>
+				<info>It's music with a positive message. A bright blend of Christian Pop hits from the 80s through today. Refreshing, sonically rich and family-friendly.</info>
+			</channel>	
+			<channel>
+				<title>SPIRIT</title>
+				<logo>logos/thespirit.swf</logo>
+				<heading>THE SPIRIT &#8212; XM 33</heading>
+				<info>Glory is what Gospel is all about. The glory of its inspirational message and the sheer glorious sound of the music. Let your heart soar with your favorite Gospel artists.</info>
+			</channel>	
+			<channel>
+				<title>ENLIGHTEN</title>
+				<logo>logos/enlighten.swf</logo>
+				<heading>ENLIGHTEN &#8212; XM 34</heading>
+				<info>Southern Gospel's roots go back more than a century. Enlighten features family groups, trios, quartets and soloists including Hoppers, Perrys, Happy Goodmans, Gold City, Whisnants, Ivan Parker and Gaither Vocal Band.</info>
+			</channel>	
+		</channels>
+	</genre>
+	<genre>	
+		<title>ROCK MUSIC</title>
+		<channels>
+			<channel>
+				<title>DEEP TRACKS</title>
+				<logo>logos/deeptracks.swf</logo>
+				<heading>DEEP TRACKS &#8212; XM 40</heading>
+				<info>Thought you knew everything about Classic Rock? Deep Tracks goes deeper &#8212; playing the nuggets rarely heard on FM radio &#8212; the landmark songs, lost gems and classic concerts. Deep Tracks plays careers, not hits.</info>
+			</channel>	
+			<channel>
+				<title>BONEYARD</title>
+				<logo>logos/boneyard.swf</logo>
+				<heading>BONEYARD &#8212; XM 41</heading>
+				<info>It's killer Hard Rock and more insanity than you thought a radio channel could have. Dig deep &#8212; with bands like AC/DC, Ozzy, Metallica, Aerosmith, Iron Maiden, Van Halen, Ratt and Guns N' Roses.</info>
+			</channel>	
+			<channel>
+				<title>LIQUID METAL</title>
+				<logo>logos/xmlm.swf</logo>
+				<heading>LIQUID METAL &#8212; XM 42</heading>
+				<info>Liquid Metal is undiluted, industrial strength metal for the masses. Torturously hard and loud, Liquid Metal delivers the juice painfully and without compromise.</info>
+			</channel>	
+			<channel>
+				<title>XMU</title>
+				<logo>logos/xmu.swf</logo>
+				<heading>XMU &#8212; XM 43</heading>
+				<info>Imagine your favorite college radio station...add a couple of satellites, national coverage and a Dean of Music. It's Indie Pop, Indie Rock, Electronic, Down Tempo and underground Hip-Hop. XMU is all about the music!</info>
+			</channel>	
+			<channel>
+				<title>FRED</title>
+				<logo>logos/fred.swf</logo>
+				<heading>FRED &#8212; XM 44</heading>
+				<info>Until now, the alternative sounds of the 70s and 80s didn't have a home on the radio. Fred brings you Depeche Mode, Bowie, The Clash, The Cure, The Smiths, liberally seasoned with Seattle Grunge and Punk.</info>
+			</channel>	
+			<channel>
+				<title>XM CAFE</title>
+				<logo>logos/xmcafe.swf</logo>
+				<heading>XM CAFE &#8212; XM 45</heading>
+				<info>It's a mellow approach to modern adult Alternative music. Sit back and listen to Dave Matthews Band, Sheryl Crow, Sarah McLachlan, Elvis Costello and more. We'll save a seat for you.</info>
+			</channel>	
+			<channel>
+				<title>TOP TRACKS</title>
+				<logo>logos/toptracks.swf</logo>
+				<heading>TOP TRACKS &#8212; XM 46</heading>
+				<info>Nothing but the Big Ones. Hold up that lighter, because the band is about to hit the stage for the final number of the night. All the killer cuts from the supergroups of the 60s and 70s.</info>
+			</channel>	
+			<channel>
+				<title>ETHEL</title>
+				<logo>logos/ethel.swf</logo>
+				<heading>ETHEL &#8212; XM 47</heading>
+				<info>All of Alternative Rock music's monster hits. Bands like Blink 182, Coldplay, The Goo Goo Dolls, Weezer, Red Hot Chili Peppers, U2, Stone Temple Pilots and Smashing Pumpkins.</info>
+			</channel>	
+			<channel>
+				<title>SQUIZZ</title>
+				<logo>logos/squizz.swf</logo>
+				<heading>SQUIZZ &#8212; XM 48</heading>
+				<info>It's the hard alternative to the post-grunge era, fusing metal-rap-funk-world with aggressive heavy guitars. You'll hear everything from the pioneers &#8212; Korn and Limp Bizkit &#8212; to today's emerging stars Dark New Day and Seether.</info>
+			</channel>	
+			<channel>
+				<title>BIG TRACKS</title>
+				<logo>logos/bigtracks.swf</logo>
+				<heading>BIG TRACKS &#8212; XM 49</heading>
+				<info>The 70s wasn't the end of Classic Rock &#8212; only the beginning. From mullets to air guitars, Big Tracks delivers Classic Rock's best, straight through the early 90s. What a rockin' state of mind that is.</info>
+			</channel>	
+			<channel>
+				<title>THE LOFT</title>
+				<logo>logos/theloft.swf</logo>
+				<heading>THE LOFT &#8212; XM 50</heading>
+				<info>An intelligent, eclectic mix of tunes by singer-songwriters who can craft a good lyric and then put it across. You'll hear artists like Joni Mitchell, Jackson Browne, Norah Jones and Bruce Springsteen.</info>
+			</channel>	
+			<channel>
+				<title>THE VERGE</title>
+				<logo>logos/theverge.swf</logo>
+				<heading>THE VERGE &#8212; XM 52</heading>
+				<info>New, emerging and recently discovered Canadian rock artists have a home on The Verge. You'll hear artists like Broken Social Scene, The New Pornographers, Stars and Death From Above 1979.</info>
+			</channel>	
+			<channel>
+				<title>FUNGUS</title>
+				<logo>logos/fungus.swf</logo>
+				<heading>FUNGUS &#8212; XM 53</heading>
+				<info>Fungus 53, the nasty little hole in the XM lineup where old and new Punk Rock settles to the bottom. You'll also get Ska, Industrial, Surf and other misbegotten DIY styles that the powers that be have railed against through the ages.</info>
+			</channel>	
+			<channel>
+				<title>LUCY</title>
+				<logo>logos/lucy.swf</logo>
+				<heading>LUCY &#8212; XM 54</heading>
+				<info>Lucy is all about the most important and well-known songs in the history of Alternative Music. While Fred, Ethel, Squizz and other XM Alt channels go deep, Lucy is about the encores...the giants...the defining songs of the generation.</info>
+			</channel>	
+		</channels>
+	</genre>
+	<genre>
+		<title>HIP HOP and URBAN</title>
+		<channels>
+			<channel>
+				<title>SOUL STREET</title>
+				<logo>logos/soulstreet.swf</logo>
+				<heading>SOUL STREET &#8212; XM 60</heading>
+				<info>Think Motown, Stax and Atlantic, and take Soul Street back to the 60s and relive the days of peace, love and Soul.</info>
+			</channel>	
+			<channel>
+				<title>SUITE 62</title>
+				<logo>logos/suite62.swf</logo>
+				<heading>SUITE 62 &#8212; XM 62</heading>
+				<info>Get ready for the smooth, polished sounds of the urban hits from the 80s, 90s and today. Marvin Gaye, Musiq, Luther Vandross, Cameo, Alicia Keys and Usher. Everything is First Class in Suite 62.</info>
+			</channel>	
+			<channel>
+				<title>THE GROOVE</title>
+				<logo>logos/thegroove.swf</logo>
+				<heading>THE GROOVE &#8212; XM 64</heading>
+				<info>R&B is the international language of partying. All the R&B headliners from the 70s, 80s and beyond. Familiar hits, deeper cuts, live studio visits and features. From Stevie, Marvin and Patti to Prince and the King of Pop.</info>
+			</channel>	
+			<channel>
+				<title>THE RHYME</title>
+				<logo>logos/therhyme.swf</logo>
+				<heading>THE RHYME &#8212; XM 65</heading>
+				<info>It's the official throwback! Classic Hip Hop uncensored. Spinning right now... Run D.M.C., Ice Cube, A Tribe Called Quest, Biggie, LL, Tupac, N.W.A. and more.</info>
+			</channel>
+			<channel>
+				<title>RAW</title>
+				<logo>logos/raw.swf</logo>
+				<heading>RAW &#8212; XM 66</heading>
+				<info>If it's bangin' &#8212; it's RAW! Hip Hop uncensored &#8212; straight from the streets. Gritty, Gully &#8212; RAW! The sound of urban America from the artists that live the music and represent the culture.</info>
+			</channel>
+			<channel>
+				<title>THE CITY</title>
+				<logo>logos/thecity.swf</logo>
+				<heading>THE CITY &#8212; XM 67</heading>
+				<info>The hottest Hip Hop and R&B from your favorite artists and the newcomers to watch. These are the Big Ones in urban music: Mary J. Blige, Jay-Z, Ja Rule, Usher, Alicia Keys, Ludacris, Missy Elliot and more.</info>
+			</channel>
+			<channel>
+				<title>THE HEAT</title>
+				<logo>logos/theheat.swf</logo>
+				<heading>THE HEAT &#8212; XM 68</heading>
+				<info>Today's music is burning up the charts and setting America on fire. Turn up The Heat for the nation's most sizzling Hip-Hop, R&B and Top 40 crossover music. Black Eyed Peas, Chris Brown, 50 Cent, Eminem, Missy Elliott and more.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>JAZZ and BLUES</title>
+		<channels>
+			<channel>
+				<title>REAL JAZZ</title>
+				<logo>logos/realjazz.swf</logo>
+				<heading>REAL JAZZ &#8212; XM 70</heading>
+				<info>You know the real thing when you hear it: Louis. Ella. Duke. Dizzy. Monk. Bird. From the amazing Jazz pioneers of the 20s to the young lions making history today.</info>
+			</channel>
+			<channel>
+				<title>WATERCOLORS</title>
+				<logo>logos/watercolors.swf</logo>
+				<heading>WATERCOLORS &#8212; XM 71</heading>
+				<info>Sophistication doesn't shout. These cool, contemporary Jazz instrumentals and hip vocals create a muted musical backdrop. What more could you ask for? Maybe a chilled martini &#8212; on the dry side.</info>
+			</channel>
+			<channel>
+				<title>BEYOND JAZZ</title>
+				<logo>logos/beyondjazz.swf</logo>
+				<heading>BEYOND JAZZ &#8212; XM 72</heading>
+				<info>Beyond Jazz is where you'll hear the Lords of Jazz Fusion, The Stars of Modern Electric and Acoustic jazz, The New Jazz Singers, Techno Jazz, Acid Jazz, The Jazzy Jambands. Come join us in a cool new world!</info>
+			</channel>
+			<channel>
+				<title>FRANK'S PLACE</title>
+				<logo>logos/franksplace.swf</logo>
+				<heading>FRANK'S PLACE &#8212; XM 73</heading>
+				<info>Celebrate the Great American Songbook with a little help from the Sinatra Family. It's the Chairman from A to Z along with his friends Tony Bennett, Ella Fitzgerald, Louis Armstrong, Rosemary Clooney and many more.</info>
+			</channel>
+			<channel>
+				<title>BLUESVILLE</title>
+				<logo>logos/bluesville.swf</logo>
+				<heading>BLUESVILLE &#8212; XM 74</heading>
+				<info>Bluesville: It ain't a format, it's a place. Drop in to celebrate music's universal language of life. B.B. King, Muddy Waters, Etta James, Buddy Guy and more. With live performances by today's best Blues artists.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>LIFESTYLE MUSIC</title>
+		<channels>
+			<channel>
+				<title>HEAR MUSIC</title>
+				<logo>logos/hearmusic.swf</logo>
+				<heading>HEAR MUSIC &#8212; XM 75</heading>
+				<info>Hear Music is dedicated to helping you discover your next favorite artist. From emerging singer-songwriters to legendary music icons, you'll find them on Hear Music.</info>
+			</channel>
+			<channel>
+				<title>FINE TUNING</title>
+				<logo>logos/finetuning.swf</logo>
+				<heading>FINE TUNING &#8212; XM 76</heading>
+				<info>An eclectic mix of Classical, Jazz, Rock and dozens of other styles. It's a musical oasis for the sophisticated listener. A place where the Chieftains, the Beatles, Miles Davis and Charlotte Church live together.</info>
+			</channel>
+			<channel>
+				<title>AUDIO VISIONS</title>
+				<logo>logos/audiovisions.swf</logo>
+				<heading>AUDIO VISIONS &#8212; XM 77</heading>
+				<info>With its blend of soothing, inviting, magical music and inspiring and meditative messages, Audio Visions creates a place you can escape to when the world seems all too real.</info>
+			</channel>
+			<channel>
+				<title>ESCAPE</title>
+				<logo>logos/escape.swf</logo>
+				<heading>ESCAPE &#8212; XM 78</heading>
+				<info>This steady flow of easy instrumental and vocal favorites provides a soothing and refreshing Escape. Go where life is a bit easier, the sounds are always sweeter, and all that's played are the great, popular melodies of the last sixty years.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>DANCE MUSIC</title>
+		<channels>
+			<channel>
+				<title>THE MOVE</title>
+				<logo>logos/themove.swf</logo>
+				<heading>THE MOVE &#8212; XM 80</heading>
+				<info>Leading the Underground Dance movement. The Move is America's first 24/7 Club/Rave Culture Dance music channel. David Morales, Little Louie Vega and DJ Rap are just a few of the world-class DJs featured on The Move.</info>
+			</channel>
+			<channel>
+				<title>BPM</title>
+				<logo>logos/bpm.swf</logo>
+				<heading>BPM &#8212; XM 81</heading>
+				<info>Finally, there's a Dance channel that bleeds the energy, passion and emotion of the weekend, day and night. Finally, there's BPM. We are America's Dance Hits. Where the club never closes and the party never ends.</info>
+			</channel>
+			<channel>
+				<title>THE SYSTEM</title>
+				<logo>logos/thesystem.swf</logo>
+				<heading>THE SYSTEM &#8212; XM 82</heading>
+				<info>The System is ready. Turn it on &#8212; for a mind-altering Electronica mix. From the hardcore scene of the early 90s, to Trance anthems, Big Beat, Breakbeat and Down-Tempos.</info>
+			</channel>
+			<channel>
+				<title>CHROME</title>
+				<logo>logos/chrome.swf</logo>
+				<heading>CHROME &#8212; XM 83</heading>
+				<info>Disco nightlife all day and all night. The smooth, driving rhythms that first aired in '75 - '85 and still make disco the most danceable music of all time. Chic, Donna Summer, KC and the Sunshine Band and MFSB.</info>
+			</channel>
+			<channel>
+				<title>XM-CHILL</title>
+				<logo>logos/xmchill.swf</logo>
+				<heading>XM-Chill &#8212; XM 84</heading>
+				<info>XM-Chill is a voyage into the Chill, a place that pulses with exotic and cerebral music known as Smooth Electronica. Ambient, Electronic and Down-Tempo Rock that's beyond a channel. It's an experience in sound.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>LATIN MUSIC</title>
+		<channels>
+			<channel>
+				<title>FUEGO</title>
+				<logo>logos/fuego.swf</logo>
+				<heading>FUEGO &#8212; XM 90</heading>
+				<info>Feel the movement. A new wave of sound is emerging, and it's filled with Latin rhythms and hip, Urban Pop. Fuego is a mix of Reggaeton, Hip-Hop and Rap, all spiced up with Latin flavor.</info>
+			</channel>
+			<channel>
+				<title>VIVA</title>
+				<logo>logos/viva.swf</logo>
+				<heading>VIVA &#8212; XM 91</heading>
+				<info>Viva is where Latin Pop thrives. Explore the pulsating and contemporary side of Latin Pop with the biggest superstars like Shakira, Juanes, Ricky Martin, Thalia and Paulina Rubio.</info>
+			</channel>
+			<channel>
+				<title>AGUILA</title>
+				<logo>logos/aguila.swf</logo>
+				<heading>AGUILA &#8212; XM 92</heading>
+				<info>Aguila is a fluid, ground-breaking celebration of Norteno, Tejano, Cumbia, Banda, Mariachi, Rancheras and other influences. Warm and sensuous, Aguila has a unique, regional Mexican flavor all its own.</info>
+			</channel>
+			<channel>
+				<title>CALIENTE</title>
+				<logo>logos/caliente.swf</logo>
+				<heading>CALIENTE &#8212; XM 94</heading>
+				<info>Distant peoples and distant places come together in an uplifting, high-energy musical exploration of the tropical sounds from the Americas. Caliente delivers the spicy essence of tropical sounds.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>WORLD MUSIC</title>
+			<channels>
+			<channel>
+				<title>AIR MUSIQUE</title>
+				<logo>logos/airmusique.swf</logo>
+				<heading>AIR MUSIQUE &#8212; XM 100</heading>
+				<info>New and emerging music broadcast in French &#8212; Experience the leading edge of the world music scene. Listen in for a fusion of Punk, Hip-Hop, Metal, Electronic and Alternative Rock music.</info>
+			</channel>
+			<channel>
+				<title>THE JOINT</title>
+				<logo>logos/thejoint.swf</logo>
+				<heading>THE JOINT &#8212; XM 101</heading>
+				<info>Roots Reggae, Ska, Rock Steady, Dancehall and Dub, the Joint is your daily trip to Jamaica. From Bob Marley and Jimmy Cliff to Maxi Priest, Shaggy and more.</info>
+			</channel>
+			<channel>
+				<title>SUR LA ROUTE</title>
+				<logo>logos/surlaroute.swf</logo>
+				<heading>SUR LA ROUTE &#8212; XM 102</heading>
+				<info>Pop Hits broadcast in French, Sur La Route is a blend of modern and classic Pop, Folk, Rock N' Roll, "Chanson" and Soul featuring the stars of yesterday, today and tomorrow.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>CLASSICAL MUSIC</title>
+			<channels>
+			<channel>
+				<title>XM CLASSICS</title>
+				<logo>logos/xmclassics.swf</logo>
+				<heading>XM CLASSICS &#8212; XM 110</heading>
+				<info>From full-length symphonies to chamber music to the intimacies of a solo recital to the grandeur of choral masterworks, XM Classics brings you the greatest music of the last thousand years.</info>
+			</channel>
+			<channel>
+				<title>VOX</title>
+				<logo>logos/vox.swf</logo>
+				<heading>VOX &#8212; XM 112</heading>
+				<info>The human voice in all its glory and variety, from Lieder to Opera to Oratorio. BBC opera broadcasts and vocal rarities from the BBC archives are all on Vox.</info>
+			</channel>
+			<channel>
+				<title>XM POPS</title>
+				<logo>logos/xmpops.swf</logo>
+				<heading>XM POPS &#8212; XM 113</heading>
+				<info>From the opening chords of Beethoven's Fifth to the waltzes of Strauss and the beauty of Gershwin's Rhapsody in Blue, you're always in touch with the most gorgeous music ever created. XM Pops - Classical music for the rest of us.</info>
+			</channel>
+	</channels>
+	</genre>
+	<genre>
+		<title>KIDS MUSIC</title>
+			<channels>
+			<channel>
+				<title>RADIO DISNEY</title>
+				<logo>logos/radiodisney.swf</logo>
+				<heading>RADIO DISNEY &#8212; XM 115</heading>
+				<info>This party rocks with the music kids and tweens want to hear! With cool DJs, fantasy prizes and oldies &#8212; mixed with hilarious interaction from kids coast to coast. Aaron Carter, 'N Sync, A*Teens and Baha Men.</info>
+			</channel>
+			<channel>
+				<title>XM KIDS</title>
+				<logo>logos/xmkids.swf</logo>
+				<heading>XM KIDS &#8212; XM 116</heading>
+				<info>Part playhouse, part songfest and winner of 5 prestigious Parents' Choice 2002 Recommendation Awards, XM Kids provides energetic and imaginative programming for children ages 2 through 8.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>NEWS</title>
+			<channels>
+			<channel>
+				<title>FOX NEWS</title>
+				<logo>logos/foxnews.swf</logo>
+				<heading>FOX NEWS &#8212; XM 121</heading>
+				<info>The news channel for the next generation of news listeners. We offer what you want from the news today: more information presented in a fair and balanced format. With Bill O'Reilly, Geraldo Rivera, Hannity and Colmes.</info>
+			</channel>
+			<channel>
+				<title>CNN</title>
+				<logo>logos/cnn.swf</logo>
+				<heading>CNN &#8212; XM 122</heading>
+				<info>More than 1.5 billion viewers around the globe rely on CNN to broadcast the latest, breaking news with on-the-spot coverage and up-to-the-minute updates.</info>
+			</channel>
+			<channel>
+				<title>CNN HEADLINE NEWS  </title>
+				<logo>logos/cnnheadlinenews.swf</logo>
+				<heading>CNN HEADLINE NEWS &#8212; XM 123</heading>
+				<info>The top stories and financial, sports, weather and entertainment news. Life demands all your time, getting the news shouldn't have to.</info>
+			</channel>
+			<channel>
+				<title>ABC NEWS and TALK</title>
+				<logo>logos/abcnewsandtalk.swf</logo>
+				<heading>ABC NEWS and TALK &#8212; XM 124</heading>
+				<info>More issues, more in-depth information, and more of the topics people talk about everyday, from the enormous resources of ABC News. Get your News and your Talk where it matters &#8212; XM 124</info>
+			</channel>
+			<channel>
+				<title>THE WEATHER CHANNEL  </title>
+				<logo>logos/theweatherchannel.swf</logo>
+				<heading>THE WEATHER CHANNEL &#8212; XM 125</heading>
+				<info>The most recognized and trusted source for weather information joins forces with XM Satellite Radio to keep you informed wherever you go, 24 hours a day.</info>
+			</channel>
+			<channel>
+				<title>CNN IN ESPANOL</title>
+				<logo>logos/cnnespanol.swf</logo>
+				<heading>CNN EN ESPANOL &#8212; XM 126</heading>
+				<info>CNN's 24-hour Spanish-language news network, providing continuous regional and global coverage, live breaking news reports and feature programming for Latin Americans and Spanish-speaking viewers in the U.S.</info>
+			</channel>
+			<channel>
+				<title>CNBC</title>
+				<logo>logos/cnbc.swf</logo>
+				<heading>CNBC &#8212; XM 127</heading>
+				<info>The global leader in business news provides real-time financial market coverage and information &#8212; setting a new standard of excellence in business news and analysis. While evenings and weekends offer broad-based news coverage.</info>
+			</channel>
+			<channel>
+				<title>BLOOMBERG RADIO / BUSINESS</title>
+				<logo>logos/bloombergradio.swf</logo>
+				<heading>BLOOMBERG RADIO/BUSINESS &#8212; XM 129</heading>
+				<info>From Wall Street to London to Tokyo, Bloomberg draws on its global news team of 1200 reporters in 80 news bureaus worldwide to deliver up-to-the-minute coverage of financial markets from the frontlines as news happens.</info>
+			</channel>
+			<channel>
+				<title>BBC WORLD SERVICE</title>
+				<logo>logos/bbc.swf</logo>
+				<heading>BBC WORLD SERVICE &#8212; XM 131</heading>
+				<info>Renowned for objectivity and global reach,the BBC has set the standard for broadcast coverage of international news for decades. Tune to the BBC World Service for a broad perspective on world events in the BBC tradition.</info>
+			</channel>
+			<channel>
+				<title>C&#8212;SPAN RADIO</title>
+				<logo>logos/cspanradio.swf</logo>
+				<heading>C&#8212;SPAN RADIO &#8212; XM 132</heading>
+				<info>C-SPAN RADIO takes you right to the source of key policy decisions with as-it-happens coverage of national public affairs events including congressional proceedings, committee hearings and press conferences.</info>
+			</channel>
+			<channel>
+				<title>XM PUBLIC RADIO</title>
+				<logo>logos/xmpublicradio.swf</logo>
+				<heading>XM PUBLIC RADIO &#8212; XM 133</heading>
+				<info>Insightful, entertaining and provocative programming produced by some of the most respected names in public broadcasting, including Public Radio International (PRI) and Boston public radio station WBUR.</info>
+			</channel>
+			<channel>
+				<title>CANADA 360</title>
+				<logo>logos/canada360.swf</logo>
+				<heading>CANADA 360 &#8212; XM 244</heading>
+				<info>A new perspective on news, coming straight out of Canada. A 24/7 news and information channel with the latest news, weather, sports, business, entertainment and issues making headlines in Canada and around the world.</info>
+			</channel>
+			<channel>
+				<title>QUOI DE NEUF</title>
+				<logo>logos/quoideneuf.swf</logo>
+				<heading>QUOI DE NEUF &#8212; XM 245</heading>
+				<info>Broadcast in French - News & Information and Art & Entertainment. From new movies, concerts, shows and theater, to the latest information on new technology like computers, video games and more. Quoi de Neuf, brings it to you 24/7.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>	
+		<title>SPORTS</title>
+		<channels>
+			<channel>
+				<title>ESPN RADIO</title>
+				<logo>logos/espnradio.swf</logo>
+				<heading>ESPN RADIO &#8212; XM 140</heading>
+				<info>Breaking sports news, information, big-name guests, entertainment, commentary and play-by-play from the worldwide leader in sports. Mike Golic, Mike Greenberg, Dan Patrick and Bob Valvano just to name a few.</info>
+			</channel>
+			<channel>
+				<title>ESPNEWS</title>
+				<logo>logos/espnnews.swf</logo>
+				<heading>ESPNEWS &#8212; XM 141</heading>
+				<info>Stay on top of your game with the worldwide leader in sports. Hear round-the-clock updates of the latest scores, stats and breaking news from ESPNEWS.</info>
+			</channel>
+			<channel>
+				<title>FOX SPORTS RADIO</title>
+				<logo>logos/foxradio.swf</logo>
+				<heading>FOX SPORTS RADIO &#8212; XM 142</heading>
+				<info>Yes, we've got the scores and the standings, but at FOX Sports Radio, you're the expert. We want to know what you think about the athletes, the games and the decisions you care about most!</info>
+			</channel>
+			<channel>
+				<title>SPORTING NEWS RADIO  </title>
+				<logo>logos/sportingsnewsradio.swf</logo>
+				<heading>SPORTING NEWS RADIO &#8212; XM 143</heading>
+				<info>Entertaining, informative and cutting-edge sports talk. Where educated sports fans banter with some of the most passionate personalities behind the microphone.</info>
+			</channel>
+			<channel>
+				<title>NASCAR RADIO</title>
+				<logo>logos/nascar.swf</logo>
+				<heading>NASCAR RADIO &#8212; XM 144</heading>
+				<info>Your "hot pass" to all the NASCAR Nextel Cup, Busch and Craftsman Truck Series races, all season long. Plus, breaking news from the track, daily call-in shows and your favorite Speed Channel NASCAR programs.</info>
+			</channel>
+			<channel>
+				<title>INDYCAR SERIES RACING</title>
+				<logo>logos/indycar.swf</logo>
+				<heading>INDYCAR SERIES RACING &#8212; XM 145</heading>
+				<info>The Exclusive Satellite Radio Partner of the Indy Racing League. XM broadcasts the IMS Radio Network's live race coverage, pre-race programming, plus IndyCar Series updates on a variety of other XM talk channels.</info>
+			</channel>
+			<channel>
+				<title>PGA TOUR NETWORK  </title>
+				<logo>logos/pgatour.swf</logo>
+				<heading>PGA TOUR NETWORK &#8212; XM 146</heading>
+				<info>The latest golf news, tournament scores and player highlights from the PGA TOUR, Champions Tour and Nationwide Tour. Don't be left out in the cold &#8212; get inside the ropes, with the PGA TOUR Network on XM 146.</info>
+			</channel>
+			<channel>
+				<title>XM DEPORTIVO</title>
+				<logo>logos/xmdeportivo.swf</logo>
+				<heading>XM DEPORTIVO &#8212; XM 147</heading>
+				<info>XM and Andres Cantor's Futbol de Primera join forces. It's an all-access pass to the most important Spanish language sports broadcasts &#8212; boxing, baseball, soccer and more. It’s "en espanol" and on XM.</info>
+			</channel>
+			<channel>
+				<title>SPORTS PLUS</title>
+				<logo>logos/sportplus.swf</logo>
+				<heading>SPORT PLUS &#8212; XM 172</heading>
+				<info>Your place for everything Canadian. Catch your daily dose of sports news and hourly news updated about the state of the economy, health and other issues in. This channel also serves as a home for NHL games, presented in French.</info>
+			</channel>
+			<channel>
+				<title>XM SPORTS GUIDE</title>
+				<logo>logos/xmsportsguide.swf</logo>
+				<heading>XM SPORTS GUIDE &#8212; XM 174</heading>
+				<info>Check out all of XM's sports schedules including MLB, NHL, NASCAR, PGA TOUR, IRL, US Open Tennis, NCAA College Football and NCAA College Basketball. If it’s on XM, you’ll find it here.</info>
+			</channel>
+			<channel>
+				<title>MLB HOME PLATE</title>
+				<logo>logos/mlb.swf</logo>
+				<heading>MLB HOME PLATE &#8212; XM 175</heading>
+				<info>The best games of the week. Classic Major League Baseball game broadcasts. XM 175 is your source for all things baseball. Don't miss a minute of baseball history being made.</info>
+			</channel>
+			<channel>
+				<title>MLB PLAY-BY-PLAY CHANNELS</title>
+				<logo>logos/mlb.swf</logo>
+				<heading>MLB PLAY-BY-PLAY CHANNELS &#8212; XM 176-190</heading>
+				<info>Starting with Spring Training, XM brings you LIVE, play-by-play game broadcasts from every MLB team, all season long on XM Channels 176-189.</info>
+			</channel>
+			<channel>
+				<title>MLB PLAY-BY-PLAY EN ESPANOL</title>
+				<logo>logos/mlb.swf</logo>
+				<heading>MLB play-by-play EN ESPANOL &#8212; XM 190</heading>
+				<info>Starting with Spring Training, XM brings you LIVE, play-by-play game broadcasts from select MLB games, all season long in Spanish on XM 190.</info>
+			</channel>
+			<channel>
+				<title>COLLEGE SPORTS ACC</title>
+				<logo>logos/acc.swf</logo>
+				<heading>COLLEGE SPORTS - ACC &#8212; XM 191-193</heading>
+				<info>Tune in to Atlantic Coast Conference football and men's and women's basketball games including top notch schools like Clemson, Duke, Florida State, Georgia Tech, Miami, NC State, University of Virginia, Virginia Tech and Wake Forest.</info>
+			</channel>
+			<channel>
+				<title>COLLEGE SPORTS PAC-10</title>
+				<logo>logos/pac10.swf</logo>
+				<heading>COLLEGE SPORTS PAC 10 &#8212; XM 194-196</heading>
+				<info>Tune in to PAC-10 Conference game coverage for football and men's and women's basketball. The PAC-10 includes USC, Washington State, Oregon, California, Washington, UCLA, Arizona State, Stanford and Arizona.</info>
+			</channel>
+			<channel>
+				<title>COLLEGE SPORTS BIG TEN</title>
+				<logo>logos/bigten.swf</logo>
+				<heading>COLLEGE SPORTS BIG TEN &#8212; XM 197&#8212;199</heading>
+				<info>XM delivers Big Ten Conference football and men's and women's basketball. The Big Ten includes top schools like Michigan State, University of Minnesota, Northwestern, Ohio State, Penn State, Purdue and University of Wisconsin.</info>
+			</channel>
+			<channel>
+				<title>NHL HOME ICE</title>
+				<logo>logos/homeice.swf</logo>
+				<heading>NHL HOME ICE &#8212; XM 204</heading>
+				<info>The puck drops on the world's first hockey channel. A mix of information and entertainment, NHL Home Ice is the on-ice leader for up to the second news and the very best in NHL play-by-play right through the Stanley Cup Playoffs.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>COMEDY</title>
+		<channels>
+			<channel>
+				<title>XM COMEDY</title>
+				<logo>logos/xmcomedy.swf</logo>
+				<heading>XM COMEDY &#8212; XM 150</heading>
+				<info>Comedy like this has never been on radio before. The hottest short segments of standup pulled from thousands of hours of comedy club gold. But wait, there's more: wacky records, prank phone calls and lots of other radio insanity.</info>
+			</channel>
+			<channel>
+				<title>LAUGH USA</title>
+				<logo>logos/laughusa.swf</logo>
+				<heading>LAUGH USA &#8212; XM 151</heading>
+				<info>If you love to laugh, we've got it covered: the Laugh USA channel provides hilarity without getting crude or offensive. Bill Cosby, Bob Newhart and Jerry Seinfeld lead the fun.</info>
+			</channel>
+			<channel>
+				<title>LAUGH ATTACK</title>
+				<logo>logos/laughattack.swf</logo>
+				<heading>LAUGH ATTACK &#8212; XM 153</heading>
+				<info>Whether it's politics, relationships or the regular travails of daily life, the hunt is on for the big laugh. Laugh Attack puts the comic spotlight on Canada's extraordinary comedic talent such as Mike Bullard, Maggie Cassella, Jeff Fink and Jim Carrey. </info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>TALK</title>
+		<channels>
+			<channel>
+				<title>EXTREME XM</title>
+				<logo>logos/extremexm.swf</logo>
+				<heading>EXTREME XM &#8212; XM 152</heading>
+				<info>You might be delighted, you might be outraged; but you won't stay neutral for long when you tune into Extreme XM. The most controversial talk in America.</info>
+			</channel>
+			<channel>
+				<title>TAKE FIVE</title>
+				<logo>logos/takefive.swf</logo>
+				<heading>TAKE FIVE &#8212; XM 155</heading>
+				<info>Take Five, a dynamic talk radio channel that pulses lifestyles, current events and pop culture 24/7. You will hear Ellen DeGeneres, Tyra Banks, along with a great line up of feisty new talk personalities.</info>
+			</channel>
+			<channel>
+				<title>E! ENTERTAINMENT RADIO</title>
+				<logo>logos/e.swf</logo>
+				<heading>E! ENTERTAINMENT RADIO &#8212; XM 162</heading>
+				<info>Get your daily dose of entertainment industry dish. The tone is fun and irreverent, but the facts are accurate. It's your window into the world of Hollywood style &#8212; with features on celebrity beauty, fashion and home design.</info>
+			</channel>
+			<channel>
+				<title>SONIC THEATER</title>
+				<logo>logos/sonictheater.swf</logo>
+				<heading>SONIC THEATER &#8212; XM 163</heading>
+				<info>Feel the drama. Live the suspense. Hear the story unfold. Enter a world that comes alive with storytellers, actors and readers. From popular bestsellers to the classics &#8212; it's XM's Sonic Theater.</info>
+			</channel>
+			<channel>
+				<title>RADIO CLASSICS</title>
+				<logo>logos/radioclassics.swf</logo>
+				<heading>RADIO CLASSICS &#8212; XM 164</heading>
+				<info>Relive the Golden Age of Radio with all the greats: Abbott and Costello, Burns and Allen, Jack Benny, The Shadow and The Lone Ranger. Hear classic murder mysteries, radio noir, comedy, thrillers and science fiction.</info>
+			</channel>
+			<channel>
+				<title>TALK RADIO</title>
+				<logo>logos/talkradio.swf</logo>
+				<heading>TALK RADIO &#8212; XM 165</heading>
+				<info>Drawing on diverse talk shows from around the country and covering just about everything from family to sports, personal finance to cars, Talk Radio is where to go when you need to know. Tune in, call in, be heard.</info>
+			</channel>
+			<channel>
+				<title>AMERICA RIGHT</title>
+				<logo>logos/americaright.swf</logo>
+				<heading>AMERICA RIGHT &#8212; XM 166</heading>
+				<info>Entertaining, informing and a bit controversial. Join a host of talk radio personalities with more conservative viewpoints on politics and current issues. Including the likes of Dr. Laura, Michael Medved, G. Gordon Liddy and more.</info>
+			</channel>
+			<channel>
+				<title>AIR AMERICA RADIO  </title>
+				<logo>logos/airamerica.swf</logo>
+				<heading>AIR AMERICA RADIO &#8212; XM 167</heading>
+				<info>Get your marching orders from Air America Radio's talented and opinionated on-air personalities, including liberal satirist Al Franken, comedienne Janeane Garofalo, radio veteran Mark Riley, commentator Alan Colmes and others.</info>
+			</channel>
+			<channel>
+				<title>FOX NEWS TALK</title>
+				<logo>logos/foxnewstalk.swf</logo>
+				<heading>FOX NEWS TALK &#8212; XM 168</heading>
+				<info>News, analysis and the pulse of the nation from Bill O'Reilly, John Gibson, Alan Colmes and more. News Talk like only Fox can give you.</info>
+			</channel>
+			<channel>
+				<title>THE POWER</title>
+				<logo>logos/thepower.swf</logo>
+				<heading>THE POWER &#8212; XM 169</heading>
+				<info>The first 24-hour African American talk station broadcast from coast to coast. Knowledge is power...tune in, stay informed and be empowered.</info>
+			</channel>
+			<channel>
+				<title>FAMILYTALK</title>
+				<logo>logos/familytalk.swf</logo>
+				<heading>FAMILY TALK &#8212; XM 170</heading>
+				<info>Talk radio to help you through the daily grind. Providing straight talk, listener interaction, Bible-based teaching, sound advice and family-friendly entertainment. Presented in partnership with Salem Communications.</info>
+			</channel>
+			<channel>
+				<title>OPEN ROAD</title>
+				<logo>logos/openroad.swf</logo>
+				<heading>OPEN ROAD &#8212; XM 171</heading>
+				<info>The "Satellite Cowboy" Bill Mack,"The Truckin' Bozo" Dale Sommers, and Dave Nemo are the Kings of the Open Road. Hear America's favorite trucking radio personalities border to border and coast-to-coast. </info>
+			</channel>
+			<channel>
+				<title>WLW</title>
+				<logo>logos/wlw.swf</logo>
+				<heading>WLW &#8212; XM 173</heading>
+				<info>"The Nation's Station" is now available coast to coast on XM Satellite Radio. The critically acclaimed 700WLW from Cincinnati, Ohio, features "The Big Ones" in talk radio. WLW serves up talk radio you don't want to miss.</info>
+			</channel>
+			<channel>
+				<title>XM LIVE</title>
+				<logo>logos/xmlive.swf</logo>
+				<heading>XM LIVE &#8212; XM 200</heading>
+				<info>XM Live features live broadcasts from concerts, festivals and original XM programming and special features.</info>
+			</channel>
+			<channel>
+				<title>HIGH VOLTAGE</title>
+				<logo>logos/highvoltage.swf</logo>
+				<heading> HIGH VOLTAGE &#8212; XM 202</heading>
+				<info>Irreverent, uncensored, so good you won't want to stop listening. Featuring outrageous radio from Opie and Anthony. Plus, Ron and Fez join in on the antics on High Voltage. These comics deliver non-stop laughter every weekday.</info>
+			</channel>
+			<channel>
+				<title>OPRAH & FRIENDS</title>
+				<logo>logos/oprah.swf</logo>
+				<heading>OPRAH & FRIENDS &#8212; XM 156</heading>
+				<info>Call and get advice directly from Oprah’s most trusted experts and friends on Oprah’s new 24/7 radio channel, XM 156. Oprah & Friends features a broad range of original programming to help you live your  best life, on topics such as health,    self improvement, fitness and more.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>
+		<title>REGIONAL TALK, NEWS and MUSIC</title>
+		<channels>
+			<channel>
+				<title>NASHVILLE!</title>
+				<logo>logos/nashville.swf</logo>
+				<heading>NASHVILLE! &#8212; XM 11</heading>
+				<info>Listen to your favorite Country hits from the 80’s up to today &#8212; Garth Brooks, Clint Black, Alabama &#8212; Nashville truly is America’s country channel.</info>
+			</channel>
+			<channel>
+				<title>KISS</title>
+				<logo>logos/kiss.swf</logo>
+				<heading>KISS &#8212; XM 21</heading>
+				<info>Looking for today’s contemporary hits? KISS-XM is for you! Hear all your favorite artists from today, all in one place. We’ll leave the hits on for you.</info>
+			</channel>
+			<channel>
+				<title>MIX</title>
+				<logo>logos/mix.swf</logo>
+				<heading>MIX &#8212; XM 22</heading>
+				<info>A hit laden “Mix” of modern adult music from the 90’s and today. We bring you the stand-out tracks that’ll keep you coming back for more.</info>
+			</channel>
+			<channel>
+				<title>SUNNY</title>
+				<logo>logos/sunny.swf</logo>
+				<heading>SUNNY &#8212; XM 24</heading>
+				<info>The listening is easy with smooth instrumentals and soothing vocals &#8212; The Carpenters, Perry Como and more make Sunny a beautiful musical experience.</info>
+			</channel>
+			<channel>
+				<title>WSIX</title>
+				<logo>logos/wsix.swf</logo>
+				<heading>WSIX &#8212; XM 161</heading>
+				<info>Live from Nashville &#8212; with acclaimed country personalities Gerry House and the House Foundation, plus Billy Greenwood, Big D & Bubba, Slam Dunca and After MidNite with Blair Garner.</info>
+			</channel>
+			<channel>
+				<title>WLW</title>
+				<logo>logos/wlw.swf</logo>
+				<heading>WLW &#8212; XM 173</heading>
+				<info>"The Nation's Station" is now available coast to coast on XM Satellite Radio. The critically acclaimed 700WLW from Cincinnati, Ohio, features "The Big Ones" in talk radio. WLW serves up talk radio you don't want to miss.</info>
+			</channel>
+		</channels>
+	</genre>
+	<genre>	
+		<title>TRAFFIC</title>
+		<channels>
+			<channel>
+				<title>BOSTON, MA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>BOSTON, MA &#8212; XM 210</heading>
+				<info>Reports cover major problem areas in and around Boston, including such notorious trouble spots as I-93, I-95, Rt. 128, 495, Rt. 3, Rt. 1, the Mass Pike, Storrow Drive and the Southeast Expressway.</info>
+			</channel>
+			<channel>
+				<title>NEW YORK, NY</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>NEW YORK, NY &#8212; XM 211</heading>
+				<info>Provides coverage of major roads and bridges/tunnels of New York City and the Tri-State area, including the Five Boroughs, Long Island, Northern New Jersey and Southern Connecticut.</info>
+			</channel>
+			<channel>
+				<title>PHILADELPHIA, PA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>PHILADELPHIA, PA &#8212; XM 212</heading>
+				<info>Covers major roads such as the Schuykill Expressway (I-76), I-95, Rt. 202, Rt. 422, The Blue Route (I-476) and the Pennsylvania Turnpike.</info>
+			</channel>
+			<channel>
+				<title>BALTIMORE, MD</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>BALTIMORE, MD &#8212; XM 213</heading>
+				<info>Provides traffic information to listeners traveling major roads such as the Baltimore Beltway (I-695), I-83/Jones Falls Expressway, I-95, I-895 (and Ft. McHenry and Harbor Tunnels) and the Baltimore-Washington Parkway.</info>
+			</channel>
+			<channel>
+				<title>WASHINGTON, DC</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>WASHINGTON, DC &#8212; XM 214</heading>
+				<info>Coverage of the Capital Beltway (I-495) and major arteries that feed into DC (e.g., I-270, I-95, Rt. 29, Baltimore-Washington Parkway and Rt. 50 from Maryland; I-95/395, Dulles Toll Road, GW Parkway and 66 from VA), and secondary roads.</info>
+			</channel>
+			<channel>
+				<title>PITTSBURGH, PA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>PITTSBURGH, PA &#8212; XM 215</heading>
+				<info>Provides coverage of the major arteries such as I-70, I-79 (including reversible HOV lanes), the PA Turnpike, Parkway North/West (I-279), Parkway East (I-376), Rt. 28 and Rt. 65.</info>
+			</channel>
+			<channel>
+				<title>DETROIT, MI</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>DETROIT, MI &#8212; XM 216</heading>
+				<info>Provides coverage throughout the Detroit metropolitan area, including the major freeways/Interstates in the area (Reuther, Chrysler, Fisher, Jeffries, Southfield, Lodge, I-75 and I-375).</info>
+			</channel>
+			<channel>
+				<title>CHICAGO, IL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>CHICAGO, IL &#8212; XM 217</heading>
+				<info>Covers the major roads motorists drive during rush-hour such as the Expressways (The Dan Ryan, The Edens, The Bishop Ford, The Eisenhower, The Kennedy, The Kingery and The Stevenson), the Tollways, Lakeshore Drive and I-57.</info>
+			</channel>
+			<channel>
+				<title>ST. LOUIS, MO</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>ST. LOUIS, MO &#8212; XM 218</heading>
+				<info>Covers major roads to/from Missouri (I-70, I-270, I-170, I-55, I-44, Rt 40/I-64) and Illinois (I-55/70, I-270, I-64)</info>
+			</channel>
+			<channel>
+				<title>MINNEAPOLIS/ST. PAUL, MN</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>MINNEAPOLIS/ST. PAUL, MN &#8212; XM 219</heading>
+				<info>Provides coverage of major roadways such as I-94, I-694, I-35E and I-35W.</info>
+			</channel>
+			<channel>
+				<title>SEATTLE, WA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>SEATTLE, WA &#8212; XM 220</heading>
+				<info>Provides coverage of major roadways such as I-5, I-405, I-90, Highway 520 and Highway 167.</info>
+			</channel>
+			<channel>
+				<title>SAN FRANCISCO BAY AREA, CA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>SAN FRANCISCO BAY AREA, CA &#8212; XM 221</heading>
+				<info>Provides coverage of the San Francisco City, North Bay, East Bay, South Bay and Mid-Peninsula areas.</info>
+			</channel>
+			<channel>
+				<title>LOS ANGELES, CA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>LOS ANGELES, CA &#8212; XM 222</heading>
+				<info>Provides coverage of major arteries such as the 5, the 10, the 101, the 605, the 105, the 405, the 110, the 710 throughout Los Angeles, Orange County and the Inland Empire (San Bernardino and Riverside Counties).</info>
+			</channel>
+			<channel>
+				<title>SAN DIEGO, CA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>SAN DIEGO, CA &#8212; XM 223</heading>
+				<info>Provides coverage of major roadways such as I-5, I-8, Highway 94, I-805, I-15, as well as the Border Crossing.</info>
+			</channel>
+			<channel>
+				<title>PHOENIX, AZ</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>PHOENIX, AZ &#8212; XM 224</heading>
+				<info>Provides coverage of the major roads in the Phoenix area such as I-10 (including the stacks), I-17, US 60 (Superstition Freeway) and Loop 101.</info>
+			</channel>
+			<channel>
+				<title>DALLAS / FT. WORTH TX  </title>
+				<logo>logos/traffic.swf</logo>
+				<heading>DALLAS/FT. WORTH, TX &#8212; XM 225</heading>
+				<info>Covers major roadways such as the I-635, I-35, I-30, I-20, Central Expressway, I-820, and extends out to the counties of Collin, Tarrant and Denton.</info>
+			</channel>
+			<channel>
+				<title>HOUSTON, TX</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>HOUSTON, TX &#8212; XM 226</heading>
+				<info>Covers major roadways such as the I-45, I-10, 59, I-610, and extends out to the counties of Brazoria, Fort Bend, Galveston, Waller, Montgomery, Liberty and Chambers.</info>
+			</channel>
+			<channel>
+				<title>ATLANTA, GA</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>ATLANTA, GA &#8212; XM 227</heading>
+				<info>Providing its listeners traffic situation information for the Atlanta area, XM's Instant Traffic and Weather covers major roadways such as I-75, I-85, the Perimeter, I-20 and the Georgia 400.</info>
+			</channel>
+			<channel>
+				<title>TAMPA, FL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>TAMPA, FL &#8212; XM 228</heading>
+				<info>Covers throughout the counties of Hillsborough, Pinellas, Pasco, Polk, Hernando, Manatee and Sarasota.</info>
+			</channel>
+			<channel>
+				<title>ORLANDO, FL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>ORLANDO, FL &#8212; XM 229</heading>
+				<info>Covers major roads such as the construction-challenged I-4, as well as I-95, the East West and Bee Line Expressways and the Florida Turnpike. Coverage extends throughout the counties of Orange, Seminole, Osceola, Lake and Polk.</info>
+			</channel>
+			<channel>
+				<title>MIAMI / FT. LAUDERDALE, FL</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>MIAMI/FT. LAUDERDALE, FL &#8212; XM 230</heading>
+				<info>Providing its listeners traffic situation information for the Miami-Ft. Lauderdale area. XM's Instant Traffic and Weather covers major roadways such as I-95, I-75, 836, The Palmetto Expressway, U.S. 1 and 595.</info>
+			</channel>
+			<channel>
+				<title>XM EMERGENCY ALERT 24/7</title>
+				<logo>logos/traffic.swf</logo>
+				<heading>XM EMERGENCY ALERT 24/7 &#8212; XM 247</heading>
+				<info>Dedicated to providing critical, updated information before, during and after natural disasters, weather emergencies and other hazardous incidents to listeners across the country.</info>
+			</channel>
+		</channels>
+	</genre>
+</guide>	
+
