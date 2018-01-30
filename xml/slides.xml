@@ -37,12 +37,6 @@
 		<url>https://jsoneric.github.io/flash_portfolio/projects/dk/do_not_click</url>
 	</slide>		 
 	<slide>
-		<path>images/hetkamp_wohnt.png</path>
-		<title>Hetkamp Wohnt</title>	
-		<info>Flash micro-site for a German interior design company.</info>	
-		<url>http://www.hetkamp-wohnt.de/</url>
-	</slide>
-	<slide>
 		<path>images/intel.jpg</path>
 		<title>Intel</title>
 		<info>Various Flash games used for Intel employee training.</info>	
@@ -53,12 +47,6 @@
 		<title>Mealtime</title>
 		<info>An animated recipe card widget.</info>	
 		<url>https://jsoneric.github.io/flash_portfolio/projects/mealtime/</url>
-	</slide>
-	<slide>
-		<path>images/hpv.png</path>
-		<title>Merck</title>
-		<info>Flash/Papervision site that shares HPV facts.</info>	
-		<url>http://www.hpv.com/pdc/18to26/hpv/</url>
 	</slide>
 	<slide>
 		<path>images/rei_hike.png</path>
